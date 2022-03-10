@@ -21,13 +21,11 @@ chdfile = open(sys.argv[1], "r")
 def getchds():
     #done
     return 0
-i=0
+#Intitialize new list and variables to be used for data gathering
 chdDict = {}
 filename = ""
 sha = ""
 for line in chdfile.readlines():
-    if line.startswith("chdman - MAME Compressed Hunks of Data (CHD) manager"):
-        item=i+1
     if line.startswith("Input file:   "):
         fullpath = str.lower(line[14:])
         #for Windows Paths
@@ -56,3 +54,6 @@ for items in chdDict.items():
 
 chdlist = list()
 print(chdfile.read())
+
+#Close hooks
+chdfile.close()
