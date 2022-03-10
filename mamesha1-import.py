@@ -9,11 +9,8 @@
 # put into a dict
 # update XML
 #
-from contextlib import nullcontext
-from posixpath import split
 import sys
 import os
-import re
 
 if len(sys.argv) < 3: 
    print(f"USAGE: {os.path.basename(__file__)} <chdmanoutputfile.txt> <mamesoftwarelist>.xml")
