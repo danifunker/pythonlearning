@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#requirements: bs4, lxml
 #Load new sha1s from text file
 #1. load file
 #2. parse look for this
@@ -11,13 +11,21 @@
 #
 import sys
 import os
+import lxml
+from bs4 import BeautifulSoup
+
+#chdListfilename = sys.argv[1]
+#softwarelistFileName = sys.argv[2]
+
+chdListfilename="~/SynologyDrive/mamechds.txt"
+softwarelistFileName="cdi.xml"
 
 if len(sys.argv) < 3: 
    print(f"USAGE: {os.path.basename(__file__)} <chdmanoutputfile.txt> <mamesoftwarelist>.xml")
    exit(1)
 
 #open the first file, first check it exists
-chdfile = open(sys.argv[1], "r")
+chdfile = open(chdListfilename, "r")
 def getchds():
     #done
     return 0
@@ -47,13 +55,21 @@ for line in chdfile.readlines():
         filename = ""
         sha = ""
 
-print("List looks like:")
+#print("chdDict looks like:")
+#for items in chdDict.items():
+#    print(f"{items}")
 
-for items in chdDict.items():
-    print(f"{items}")
-
-chdlist = list()
-print(chdfile.read())
 
 #Close hooks
 chdfile.close()
+
+xmlContent= []
+
+ # Read the XML file
+with open(sys.argv[2], "r") as file:
+    # Read each line in the file, readlines() returns a list of lines
+    content = file.readlines()
+    # Combine the lines in the list into a string
+    content = "".join(content)
+    bs_content = bs(content, "lxml")
+

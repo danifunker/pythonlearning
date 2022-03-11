@@ -1,0 +1,3279 @@
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\3rd Degree (1993)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 694,154,880 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,445
+Unit Size:    2,448 bytes
+Total Units:  283,560
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     261,858,117 bytes
+Ratio:        37.7%
+SHA1:         f3a2f33fac9b6258d1e82f46d261bb956527c02b
+Data SHA1:    6af1a122f8065b658c91230dc183bb6a8e5654e0
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:283560 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\7th Guest, The (1994)(Philips)(EU)(Disc 1 of 2)[!][The Game][DVC][8110033V113 50404169 02].chd
+File Version: 5
+Logical size: 753,318,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,466
+Unit Size:    2,448 bytes
+Total Units:  307,728
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     433,625,073 bytes
+Ratio:        57.6%
+SHA1:         df0e66f45e7731870d6ceda8f943d1341f6fbfdd
+Data SHA1:    3e8c0d750a9acf2e4292fed7da0f7b5eaada34ca
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:307726 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\7th Guest, The (1994)(Philips)(EU)(Disc 1 of 2)[!][The Game][DVC][8111033V113 50404169 01].chd
+File Version: 5
+Logical size: 753,318,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,466
+Unit Size:    2,448 bytes
+Total Units:  307,728
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     432,279,974 bytes
+Ratio:        57.4%
+SHA1:         b0da1a5b88cae2a47d00c64520775ff9840a7ad9
+Data SHA1:    1c8e0a7cc746342031aa4803089934a36b998c5b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:307726 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\7th Guest, The (1994)(Philips)(EU)(Disc 2 of 2)[!][The Music, Die Musik][CD-Audio].chd
+File Version: 5
+Logical size: 302,416,128 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  15,442
+Unit Size:    2,448 bytes
+Total Units:  123,536
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     141,861,458 bytes
+Ratio:        46.9%
+SHA1:         75c1184454b7f878e3a52fe47928bfb8e075e7b3
+Data SHA1:    4b9f8eb1e0d0b975eae60e973dff2a61ade0dcfd
+Metadata:     Tag='CHT2'  Index=0  Length=88 bytes
+              TRACK:1 TYPE:AUDIO SUBTYPE:NONE FRAMES:33675 PREGAP:0 PGTYPE
+Metadata:     Tag='CHT2'  Index=1  Length=91 bytes
+              TRACK:2 TYPE:AUDIO SUBTYPE:NONE FRAMES:26700 PREGAP:150 PGTY
+Metadata:     Tag='CHT2'  Index=2  Length=91 bytes
+              TRACK:3 TYPE:AUDIO SUBTYPE:NONE FRAMES:11325 PREGAP:150 PGTY
+Metadata:     Tag='CHT2'  Index=3  Length=91 bytes
+              TRACK:4 TYPE:AUDIO SUBTYPE:NONE FRAMES:14550 PREGAP:150 PGTY
+Metadata:     Tag='CHT2'  Index=4  Length=90 bytes
+              TRACK:5 TYPE:AUDIO SUBTYPE:NONE FRAMES:6675 PREGAP:150 PGTYP
+Metadata:     Tag='CHT2'  Index=5  Length=91 bytes
+              TRACK:6 TYPE:AUDIO SUBTYPE:NONE FRAMES:12225 PREGAP:150 PGTY
+Metadata:     Tag='CHT2'  Index=6  Length=91 bytes
+              TRACK:7 TYPE:AUDIO SUBTYPE:NONE FRAMES:18376 PREGAP:150 PGTY
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\A Great Day at the Races (1993)(Philips)(EU).chd
+File Version: 5
+Logical size: 747,012,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,144
+Unit Size:    2,448 bytes
+Total Units:  305,152
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     337,296,256 bytes
+Ratio:        45.2%
+SHA1:         8d840c884c31a06266d2e64d90b015e025371598
+Data SHA1:    fab39fbd5e269b5d55071f66fb9f17588d1bbcc0
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:305150 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\A Great Day at the Races (1993)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 747,374,400 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,163
+Unit Size:    2,448 bytes
+Total Units:  305,300
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     337,298,410 bytes
+Ratio:        45.1%
+SHA1:         76e836bca75e85ec957c0898483596841779f6af
+Data SHA1:    dbd1644d531914676f99741de9bcaf4ea6adaf1a
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:305300 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\affaire Morlov, L' (1996)(Titus)(EU)(en-fr)[!][The Morlov Affair][CD-i-PC].chd
+File Version: 5
+Logical size: 705,494,016 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  36,024
+Unit Size:    2,448 bytes
+Total Units:  288,192
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     265,740,680 bytes
+Ratio:        37.7%
+SHA1:         ebd7586ff238e366f789f8b5e2e30e17b045b4b0
+Data SHA1:    01b18622ea8e23a5dd0b5ccaf8d0260547f41595
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:288192 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Alice au pays des merveilles (1992)(Philips)(FR).chd
+File Version: 5
+Logical size: 593,130,816 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  30,287
+Unit Size:    2,448 bytes
+Total Units:  242,292
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     351,905,364 bytes
+Ratio:        59.3%
+SHA1:         1558b0ba6e20c4dcc18355968d183ad69e40d3b5
+Data SHA1:    cc8e7fa2880ac2ca20b9638d038b059480c407da
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:242290 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Alice in Wonderland (1992)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 639,211,968 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  32,640
+Unit Size:    2,448 bytes
+Total Units:  261,116
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     378,446,972 bytes
+Ratio:        59.2%
+SHA1:         1a3934a3b8d29ed0f910a3f988c4776fa0e15e14
+Data SHA1:    ca6fa964a936d87319da997e2b3348101b2c92e7
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:261115 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Alice in Wonderland (1993)(Philips)(NL).chd
+File Version: 5
+Logical size: 597,782,016 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  30,524
+Unit Size:    2,448 bytes
+Total Units:  244,192
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     347,621,386 bytes
+Ratio:        58.2%
+SHA1:         5c943192fd69c8c6c827fdf3b06f29b33581306b
+Data SHA1:    279b1285d2a33226128e007374257dad98fb979b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:244190 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Arcade Classics (1996)(Namco - Philips)(EU)[!][compilation].chd
+File Version: 5
+Logical size: 29,385,792 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  1,501
+Unit Size:    2,448 bytes
+Total Units:  12,004
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     7,289,091 bytes
+Ratio:        24.8%
+SHA1:         caed8d155b7f0cd26685e62cced38af3c8cb81d9
+Data SHA1:    466f35d2c04a5fa6e74fc5e7c22997fd93d8e871
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:12002 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Archeon CD-i Quiz (1994)(Dutch Electronic Publishers)(NL)(en-nl)[!].chd
+File Version: 5
+Logical size: 52,514,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  2,682
+Unit Size:    2,448 bytes
+Total Units:  21,452
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     28,787,919 bytes
+Ratio:        54.8%
+SHA1:         edccfcea1279b96bd6c13f238965492d1554811f
+Data SHA1:    33448b596bba60b5c54dce8c773d8ec2a59f4608
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:21450 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Asterix - Caesar's Challenge v3.9 (1995)(Pathe - Philips)(EU)[!].chd
+File Version: 5
+Logical size: 454,417,344 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  23,204
+Unit Size:    2,448 bytes
+Total Units:  185,628
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     117,189,842 bytes
+Ratio:        25.8%
+SHA1:         9359dd22f853dbb46ce128d6e7cae0162fd15069
+Data SHA1:    3172abfaf2b89102724449616249b5b588cb4335
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:185625 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Asterix - De Uitdaging Van Caesar v3.9 (1995)(Pathe - Philips)(NL)[!].chd
+File Version: 5
+Logical size: 460,654,848 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  23,522
+Unit Size:    2,448 bytes
+Total Units:  188,176
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     118,644,316 bytes
+Ratio:        25.8%
+SHA1:         c2ac85e95a70f60c7b83f19ba0d527c58b2d69f3
+Data SHA1:    6b137c81ed6a64eccf6a7717aefc35912e83952d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:188175 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Asterix - Die Grosse Reise v3.9 (1995)(Pathe - Philips)(DE)[!].chd
+File Version: 5
+Logical size: 462,672,000 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  23,625
+Unit Size:    2,448 bytes
+Total Units:  189,000
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     119,048,846 bytes
+Ratio:        25.7%
+SHA1:         8d80ba0a3c93d08d0ab32271d2e79bad9be7647f
+Data SHA1:    3be2a9e7ae8f46eddb24a193724757fb36a80049
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:189000 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Asterix - El desafio de Cesar v3.9 (1995)(Pathe - Philips)(ES)[!].chd
+File Version: 5
+Logical size: 457,354,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  23,354
+Unit Size:    2,448 bytes
+Total Units:  186,828
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     117,401,749 bytes
+Ratio:        25.7%
+SHA1:         224027e2fdc178128218e908fbfc66b3eccf5656
+Data SHA1:    bb908fa56bf2a6076d26de8cb8bfc0851606958c
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:186825 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Asterix - La sfida di Cesare v3.9 (1995)(Pathe - Philips)(IT).chd
+File Version: 5
+Logical size: 461,203,200 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  23,550
+Unit Size:    2,448 bytes
+Total Units:  188,400
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     118,630,771 bytes
+Ratio:        25.7%
+SHA1:         38194fc3db7e185a154d772327105e97d50a1ca4
+Data SHA1:    8ca175ac113b973cfc8c175e9c1990f307ee58e0
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:188400 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Asterix - Le defi de Cesar v3.9 (1995)(Pathe - Philips)(FR).chd
+File Version: 5
+Logical size: 518,858,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  26,494
+Unit Size:    2,448 bytes
+Total Units:  211,952
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     119,065,363 bytes
+Ratio:        22.9%
+SHA1:         706301de356a1b3a4ff8e15d7575a93cd82046c2
+Data SHA1:    788c1151fc18409b245a89f71f803817dabb94bb
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:211950 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Atlantis - The Last Resort v1.11 (1996)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 622,594,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,791
+Unit Size:    2,448 bytes
+Total Units:  254,328
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     206,877,041 bytes
+Ratio:        33.2%
+SHA1:         6b5e74ec5a423b81404a310c2d5b9b52521ea650
+Data SHA1:    d66a7d5cca8473a55492035854cdbf35f6d12b64
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:254325 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Axis and Allies (1994)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 582,770,880 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  29,758
+Unit Size:    2,448 bytes
+Total Units:  238,060
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     130,869,047 bytes
+Ratio:        22.5%
+SHA1:         11b9c11ce9d82407bbf3cff87ff8a82bb53a0986
+Data SHA1:    4c52333b3628ed2cca1fca8c580b4d0fb49ca03d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:238060 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Backgammon (1992)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 276,114,816 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  14,099
+Unit Size:    2,448 bytes
+Total Units:  112,792
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     97,211,633 bytes
+Ratio:        35.2%
+SHA1:         d0efa963496556538d346c5f311874e3858782a1
+Data SHA1:    bfd774261c30549d5ee69bb99ce43112475bda0d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:112790 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Battleship (1991)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 182,013,696 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  9,294
+Unit Size:    2,448 bytes
+Total Units:  74,352
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     39,846,825 bytes
+Ratio:        21.9%
+SHA1:         824cc8e354aa3a500b3db45fdd93197fb2db77dd
+Data SHA1:    ced4348dd8ca03625ae0de287f9f7c178eac1a16
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:74350 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Brain Dead 13 v1.07 (1997)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 758,723,328 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,742
+Unit Size:    2,448 bytes
+Total Units:  309,936
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     579,499,131 bytes
+Ratio:        76.4%
+SHA1:         3e5c466567d8175fc79d466d4d4d86ff973d02b5
+Data SHA1:    f51f32f35028069fecac13e3ecfdac507647da96
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:309934 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\BURN-CYCLE (1994)(Philips)(ES)[!].chd
+File Version: 5
+Logical size: 769,406,400 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,288
+Unit Size:    2,448 bytes
+Total Units:  314,300
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     455,647,262 bytes
+Ratio:        59.2%
+SHA1:         5e41af403f713e25ce4cf48309bb27a5232efac7
+Data SHA1:    e9a3dfc5c6bd90924a3bab7ee1e96fe77b2fd7a6
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:314300 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\BURN-CYCLE (1994)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 760,201,920 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,818
+Unit Size:    2,448 bytes
+Total Units:  310,540
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     450,659,648 bytes
+Ratio:        59.3%
+SHA1:         08dfa95f70bdaf899fe392b2bf68de814cc0a545
+Data SHA1:    de42e2c3e30f0aab1b46d3452780b41db2d2370a
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:310540 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\BURN-CYCLE (1995)(Philips)(DE)[!].chd
+File Version: 5
+Logical size: 768,720,960 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,253
+Unit Size:    2,448 bytes
+Total Units:  314,020
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     455,760,466 bytes
+Ratio:        59.3%
+SHA1:         2eef0a66f22b6792c6fa0ea777df6a6494ad1bff
+Data SHA1:    65e0b4f57d264dc7a2bbc589a7536111496adc8c
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:314020 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\BURN-CYCLE (1995)(Philips)(IT).chd
+File Version: 5
+Logical size: 770,444,352 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,341
+Unit Size:    2,448 bytes
+Total Units:  314,724
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     456,230,357 bytes
+Ratio:        59.2%
+SHA1:         7cf5f1d745d7bdbe65f5df385ef2c44955065772
+Data SHA1:    0265d56ea2f3b87b0fc4d4d80b9bd40d09d96349
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:314724 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Caesars World of Boxing (1993)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 616,896,000 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,500
+Unit Size:    2,448 bytes
+Total Units:  252,000
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     513,025,777 bytes
+Ratio:        83.2%
+SHA1:         4696713492e3ee2f557c8b764a980a2890c798d6
+Data SHA1:    a9ab597bdb56e7e22709ffb84349b62e1f0d914f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:251999 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Caesars World of Boxing (1993)(Philips)(US)[18621209 01].chd
+File Version: 5
+Logical size: 617,454,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,529
+Unit Size:    2,448 bytes
+Total Units:  252,228
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     513,201,664 bytes
+Ratio:        83.1%
+SHA1:         e39bc2ee3e35f15fdf4b31ed6700797569f86891
+Data SHA1:    1a94310a1d396918c9f4d28946e8f5790e674a83
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:252225 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Caesars World of Boxing (1993)(Philips)(US)[18621217 03].chd
+File Version: 5
+Logical size: 617,268,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,519
+Unit Size:    2,448 bytes
+Total Units:  252,152
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     513,027,915 bytes
+Ratio:        83.1%
+SHA1:         c4f6bf539e6ab64e91128e27025abcd4ba78cc0d
+Data SHA1:    929fca21ec4622266df11b74502b456c59a6632c
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:252150 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Caesars World of Gambling (1992)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 483,656,256 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  24,697
+Unit Size:    2,448 bytes
+Total Units:  197,572
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     98,089,260 bytes
+Ratio:        20.3%
+SHA1:         ff808f560337a039505dc55d7bc28b1e1d72c0b1
+Data SHA1:    8adec07f27934655ddf3c6917641e4f32a7970fc
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:197570 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\CD Shoot (1992)(Philips)(EU)(M8)[!].chd
+File Version: 5
+Logical size: 662,751,936 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,842
+Unit Size:    2,448 bytes
+Total Units:  270,732
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     101,871,800 bytes
+Ratio:        15.4%
+SHA1:         5cdb62cd737e82ed89b5918fa90632325faa76a1
+Data SHA1:    3792682521cb76f6b8c399f21564362ceec86562
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:270730 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\CD Shoot (1992)(Philips)(US).chd
+File Version: 5
+Logical size: 663,114,240 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,860
+Unit Size:    2,448 bytes
+Total Units:  270,880
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     101,873,825 bytes
+Ratio:        15.4%
+SHA1:         e8a8a675ac3dd17346fb19eb0b3a212ef08fbd2c
+Data SHA1:    b285b3630976b7e9d1b6ede71c33b90ae5656321
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:270880 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Centurion (1995)(Philips)(NL)[DVC].chd
+File Version: 5
+Logical size: 679,320,000 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  34,688
+Unit Size:    2,448 bytes
+Total Units:  277,500
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     591,859,735 bytes
+Ratio:        87.1%
+SHA1:         3cfb248ab6c6618042811619c822fe21bc366139
+Data SHA1:    60ef761d15fc27412e266e2bd49101d96889bf61
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:277500 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Chaos Control v1.15 (1995)(Philips)(DE)[!][DVC].chd
+File Version: 5
+Logical size: 507,294,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  25,904
+Unit Size:    2,448 bytes
+Total Units:  207,228
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     382,639,407 bytes
+Ratio:        75.4%
+SHA1:         ea0ecba741b3519d892f85b712984cfb916fc134
+Data SHA1:    9981fa3e415628c774d9f700c8eafbbd9339b79c
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:207225 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Chaos Control v1.15 (1995)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 506,922,048 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  25,885
+Unit Size:    2,448 bytes
+Total Units:  207,076
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     384,368,657 bytes
+Ratio:        75.8%
+SHA1:         16664ee9dd8ba621ae9807a071e2bc6ebff19c5b
+Data SHA1:    7453dd5a8f95bf4a0869d7e57c0ab65580fbcc1a
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:207075 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Chaos Control v1.15 (1995)(Philips)(FR)[DVC].chd
+File Version: 5
+Logical size: 507,294,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  25,904
+Unit Size:    2,448 bytes
+Total Units:  207,228
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     382,916,553 bytes
+Ratio:        75.5%
+SHA1:         44cec31d7ac71f21b0346afda5ac9f7ea746c4a3
+Data SHA1:    5bda581075bf50adc3c56d911cb88ae3de07f673
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:207226 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Chaos Control v1.15 (1995)(Philips)(US)[DVC].chd
+File Version: 5
+Logical size: 507,294,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  25,904
+Unit Size:    2,448 bytes
+Total Units:  207,228
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     384,370,601 bytes
+Ratio:        75.8%
+SHA1:         fbcf47cb0d978ec106aa5adce88c78ece9c2f577
+Data SHA1:    734adbe30d82f0aad92a746e0c4f6a475294fbd8
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:207225 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Christmas Country (1996)(Creative Media)(EU)[DVC].chd
+File Version: 5
+Logical size: 84,651,840 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,323
+Unit Size:    2,448 bytes
+Total Units:  34,580
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     23,436,602 bytes
+Ratio:        27.7%
+SHA1:         de8b40fb30008bc6a70075e09b65d94944e40c2e
+Data SHA1:    bbc5c3d93a5dfcf5c6990a0a47175efdeae64a38
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:34577 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Christmas Crisis (1995)(DIMA - Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 313,412,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  16,004
+Unit Size:    2,448 bytes
+Total Units:  128,028
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     100,682,162 bytes
+Ratio:        32.1%
+SHA1:         44534e3c1fdb990321a159ffbd411b56a5f4fb54
+Data SHA1:    4bb110d38d5b813a4c049f2dfe427549db11b52a
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:128025 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Clue (1994)(Philips)(US)[DVC].chd
+File Version: 5
+Logical size: 688,504,896 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,157
+Unit Size:    2,448 bytes
+Total Units:  281,252
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     571,386,808 bytes
+Ratio:        83.0%
+SHA1:         32efc76259ba41781d715fdeb686e2a67170f092
+Data SHA1:    07a61654ad8a24a53eafa4efa6ec64009fcf6c6b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:281250 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Cluedo (1994)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 688,132,800 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,138
+Unit Size:    2,448 bytes
+Total Units:  281,100
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     571,382,189 bytes
+Ratio:        83.0%
+SHA1:         c32bb7df75e6091a0a9f59553ac295b93f625007
+Data SHA1:    2e3e4b53550046af34408a600b14b52b23ebc272
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:281100 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Cluedo - The Mysteries Continue (1995)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 680,612,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  34,754
+Unit Size:    2,448 bytes
+Total Units:  278,028
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     568,134,411 bytes
+Ratio:        83.5%
+SHA1:         ac4946a1f01c01b50ef5b4af6489f6df2fae1fea
+Data SHA1:    3932f9f57194c5aeeac4822591555a2a36735447
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:278025 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Connect Four v1 (1991)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 96,382,656 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,922
+Unit Size:    2,448 bytes
+Total Units:  39,372
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     24,804,459 bytes
+Ratio:        25.7%
+SHA1:         006431580ece4fd1df0013edd89d1751f39f381d
+Data SHA1:    2ea997c13d2a58c85da025473201476bc983d1fb
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:39370 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Creature Shock (1996)(Philips - Virgin)(EU)(Disc 1 of 2)[DVC].chd
+File Version: 5
+Logical size: 804,902,400 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,100
+Unit Size:    2,448 bytes
+Total Units:  328,800
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     601,819,088 bytes
+Ratio:        74.8%
+SHA1:         a88796b0b63f1432d91bece8e78b2642f4b6cc06
+Data SHA1:    f3796fe553cdb2861c79ceb970716beb302d79af
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:328800 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Creature Shock (1996)(Philips - Virgin)(EU)(Disc 2 of 2)[DVC].chd
+File Version: 5
+Logical size: 746,708,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,129
+Unit Size:    2,448 bytes
+Total Units:  305,028
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     604,001,846 bytes
+Ratio:        80.9%
+SHA1:         4423f00c7f2da1389804ff51feb94fc2e6b95445
+Data SHA1:    f62f7e1f64aa76de866eb04343e69d693c2d2d9f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:305025 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Dark Castle (1992)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 147,986,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  7,557
+Unit Size:    2,448 bytes
+Total Units:  60,452
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     34,736,205 bytes
+Ratio:        23.5%
+SHA1:         7022fcba78020fa3e6f07c64e6042e635ff3f292
+Data SHA1:    19f1e5dc6c44c495780261450bceaa58c4f41f58
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:60450 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Defender of the Crown (1992)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 314,303,616 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  16,049
+Unit Size:    2,448 bytes
+Total Units:  128,392
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     125,513,278 bytes
+Ratio:        39.9%
+SHA1:         0e3f6f253c5baebf5f22999593d887537707140c
+Data SHA1:    c364dcd3f5e5ef819abe96942a56603d3a52093a
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:128390 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Do you Remember the '60's (1996)(Philips)(EU).chd
+File Version: 5
+Logical size: 215,737,344 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  11,016
+Unit Size:    2,448 bytes
+Total Units:  88,128
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     166,343,459 bytes
+Ratio:        77.1%
+SHA1:         4f152215931a49a3f389ab0c790e8870a5001795
+Data SHA1:    8e7eef7110dc33a77ff5d4963082e54f704e6dd4
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:88125 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Domino - Het oudste spel, het nieuwste medium (1997)(Haarlems Uitgeef Bedrijf)(NL)[!].chd
+File Version: 5
+Logical size: 191,678,400 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  9,788
+Unit Size:    2,448 bytes
+Total Units:  78,300
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     15,404,477 bytes
+Ratio:        8.0%
+SHA1:         e91e75c9c2f02fb5c72baf66d6f590234c4ebb48
+Data SHA1:    fe9c298b68f9ba5461c4baff5a8f1ec8cbd64a25
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:78300 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Dragon's Lair (1994)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 357,104,448 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,235
+Unit Size:    2,448 bytes
+Total Units:  145,876
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     284,464,036 bytes
+Ratio:        79.7%
+SHA1:         cd09b56677c65b30d96a69d2fde333a4a8a32f91
+Data SHA1:    b63720ffa80cdafd7d924f92db302c18e8196731
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:145875 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Dragon's Lair (1994)(Philips)(US)[!][DVC].chd
+File Version: 5
+Logical size: 357,476,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,254
+Unit Size:    2,448 bytes
+Total Units:  146,028
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     284,466,189 bytes
+Ratio:        79.6%
+SHA1:         8ba6707ee5df7229e77b3089c6ac29f2da511252
+Data SHA1:    90e7d17a1ee18f503d5624ce54c981c4c17f8893
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:146025 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Dragon's Lair II - Time Warp (1994)(Philips)(EU).chd
+File Version: 5
+Logical size: 563,470,848 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  28,772
+Unit Size:    2,448 bytes
+Total Units:  230,176
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     444,499,498 bytes
+Ratio:        78.9%
+SHA1:         ba51e22cba51ecce7779eb8173d35bbb770cba5c
+Data SHA1:    70c796f107b37549ba8809c295730fdd9e7092a4
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:230175 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Dragon's Lair II - Time Warp (1994)(Philips)(US)[!][DVC][13920805 02].chd
+File Version: 5
+Logical size: 563,842,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  28,791
+Unit Size:    2,448 bytes
+Total Units:  230,328
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     445,240,732 bytes
+Ratio:        79.0%
+SHA1:         7b7201b6a84b451cc215a809658009f217580020
+Data SHA1:    7a94c6ddb642a2d598b6ccd16de6968313dc4d08
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:230325 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Dragon's Lair II - Time Warp (1994)(Philips)(US)[DVC][13920805 01].chd
+File Version: 5
+Logical size: 563,842,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  28,791
+Unit Size:    2,448 bytes
+Total Units:  230,328
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     444,501,645 bytes
+Ratio:        78.8%
+SHA1:         ff2c4737ac06696d77be2f25e390da3979138728
+Data SHA1:    649657258ce22389e1b965e917a93ee1081c5f2b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:230325 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Drug Wars (1996)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 369,775,296 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,882
+Unit Size:    2,448 bytes
+Total Units:  151,052
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     321,781,410 bytes
+Ratio:        87.0%
+SHA1:         63a6f519f399076be42e93a3b1c1635fbf615054
+Data SHA1:    6aaf7d103ce80f40f0da45f5463d48e399848bc6
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:151050 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Earth Command - De toekomst van de wereld ligt in jouw handen v1.05 (1994)(Philips)(NL)[!].chd
+File Version: 5
+Logical size: 798,126,336 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,754
+Unit Size:    2,448 bytes
+Total Units:  326,032
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     449,421,078 bytes
+Ratio:        56.3%
+SHA1:         a25c5c47f4139c48cb10e948d56eae9e2344af56
+Data SHA1:    f208d052f190aef7ea0e92bed526a454a5164446
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:326030 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Earth Command - Die zukunft unserer welt liegt in ihrer hand v1.05 (1994)(Philips)(DE)[!].chd
+File Version: 5
+Logical size: 785,788,416 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,124
+Unit Size:    2,448 bytes
+Total Units:  320,992
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     439,541,630 bytes
+Ratio:        55.9%
+SHA1:         9a7acaaa892536b5a46a4f71f683e5906ceaf48b
+Data SHA1:    4f095e419f1dcc59adcfed71fbaddb33de36bdfd
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:320990 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Earth Command - The Future of Our World is in Your Hands v1.05 (1994)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 782,557,056 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,959
+Unit Size:    2,448 bytes
+Total Units:  319,672
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     435,586,192 bytes
+Ratio:        55.7%
+SHA1:         f3b54e47edd13bbe776ad211afd3e1cafbacba6d
+Data SHA1:    f897765c71aad5ddce5ea5ef76ba28d3c8e8f606
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:319670 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Earth Command - The Future of Our World is in Your Hands v1.05 (1994)(Philips)(US).chd
+File Version: 5
+Logical size: 782,919,360 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,978
+Unit Size:    2,448 bytes
+Total Units:  319,820
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     435,588,354 bytes
+Ratio:        55.6%
+SHA1:         acd585143029b7659c7e63621a2aa23808a68680
+Data SHA1:    f02cc0a6155f6e2e3aae335ca2c8bcb14006e4fb
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:319820 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Earth Command v1.05 (1994)(Philips)(FR).chd
+File Version: 5
+Logical size: 785,426,112 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,106
+Unit Size:    2,448 bytes
+Total Units:  320,844
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     440,061,644 bytes
+Ratio:        56.0%
+SHA1:         1e6d20cb747409d4441e90bf818e42c14f7cc610
+Data SHA1:    089bcdb0bf123516e0179e02d18e4d9a73afdf59
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:320844 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Effacer - Hangman of the 25th Century (1994)(Philips)(US).chd
+File Version: 5
+Logical size: 723,335,040 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  36,935
+Unit Size:    2,448 bytes
+Total Units:  295,480
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     224,633,568 bytes
+Ratio:        31.1%
+SHA1:         68e1fa1452ae6abf94c110521c0ea5b91ef87350
+Data SHA1:    f6fabb2e2f373a714ca0af665bd64b89bffef68a
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:295480 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Escape from CyberCity (1992)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 478,025,856 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  24,409
+Unit Size:    2,448 bytes
+Total Units:  195,272
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     107,956,896 bytes
+Ratio:        22.6%
+SHA1:         8f579d288ce1155a03ff7291b3fe5476ff2ffcc1
+Data SHA1:    3abb5667aacdbf7d1ce8282a7aa1813d2106a933
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:195270 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Family Games I (1995)(Philips)(EU)[!][compilation].chd
+File Version: 5
+Logical size: 219,585,600 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  11,213
+Unit Size:    2,448 bytes
+Total Units:  89,700
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     48,870,065 bytes
+Ratio:        22.3%
+SHA1:         1ea3af476337b176c2cac0da8a4992cbacc73cbd
+Data SHA1:    cc0039d14599b50d1966f95aa4561358bb17b822
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:89700 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Family Games II - Junk Food Jive (1995)(Philips)(EU)[!][compilation].chd
+File Version: 5
+Logical size: 454,417,344 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  23,204
+Unit Size:    2,448 bytes
+Total Units:  185,628
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     125,250,952 bytes
+Ratio:        27.6%
+SHA1:         358f27101eb81faead7e18b691c00f5d3a4fdca1
+Data SHA1:    fa4030481dfbaec42062d70ed6db5379be8e8cca
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:185625 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Flashback (1995)(Philips)(EU)(M7)[!].chd
+File Version: 5
+Logical size: 270,082,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  13,791
+Unit Size:    2,448 bytes
+Total Units:  110,328
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     83,513,925 bytes
+Ratio:        30.9%
+SHA1:         dd236aca6f78081a8b8d8d577e0dae770ea67f36
+Data SHA1:    dea387f163580fa30ea20853dfe6ba91d1f6ba9d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:110325 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Girl's Club - The Fantasy Dating Game (1993)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 757,195,776 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,664
+Unit Size:    2,448 bytes
+Total Units:  309,312
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     418,124,723 bytes
+Ratio:        55.2%
+SHA1:         77109348d8dba2303a58150a0c91241260fb1ab7
+Data SHA1:    ac2058cc6051690926e377b83dfe6907ffd725ec
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:309310 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Go - Special Edition (2002)(Good Deal Games - Oldergames)[original version].chd
+File Version: 5
+Logical size: 650,414,016 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,212
+Unit Size:    2,448 bytes
+Total Units:  265,692
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     226,418,567 bytes
+Ratio:        34.8%
+SHA1:         2dff3da629a9b7e43b85dd7f913891b72795d303
+Data SHA1:    4c809f06a7f33a5796410dfd85c391ef2098d7e9
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:265690 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Golden Oldies I (1997)(SPC Vision)(EU)[compilation].chd
+File Version: 5
+Logical size: 52,514,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  2,682
+Unit Size:    2,448 bytes
+Total Units:  21,452
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     22,741,809 bytes
+Ratio:        43.3%
+SHA1:         94e56295357b976e1d4d3dfd2a543e6c247d0068
+Data SHA1:    a31ccdbd209013e6ec853bfbf979826c095f13c5
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:21450 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Golden Oldies II (1997)(SPC Vision)(EU)[!][compilation].chd
+File Version: 5
+Logical size: 47,001,600 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  2,400
+Unit Size:    2,448 bytes
+Total Units:  19,200
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     20,738,464 bytes
+Ratio:        44.1%
+SHA1:         c4060ac07d70360cca42260034949f2534321233
+Data SHA1:    066ce412b843100d2135e44e41b2f5d1e4d8050e
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:19200 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Guignols de l'Info, Les - Le jeu! (1996)(CANAL+ - Philips)(FR)[DVC].chd
+File Version: 5
+Logical size: 741,019,392 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  37,838
+Unit Size:    2,448 bytes
+Total Units:  302,704
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     430,680,195 bytes
+Ratio:        58.1%
+SHA1:         d44e4e551d07e81107967378a150bebf025527d9
+Data SHA1:    1585147e4233cf673c60768191f4a4d1e975252b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:302702 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Hieroglyph (1994)(ZYX-Music)(DE).chd
+File Version: 5
+Logical size: 30,482,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  1,557
+Unit Size:    2,448 bytes
+Total Units:  12,452
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     3,743,092 bytes
+Ratio:        12.3%
+SHA1:         e382bc2762022d4e0fecb4600990f4bb4eb3849d
+Data SHA1:    44f026f90224bd3ae3068e5388ecf86ef03a9d63
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:12452 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Hotel Mario (1994)(Philips)(EU).chd
+File Version: 5
+Logical size: 381,770,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  19,494
+Unit Size:    2,448 bytes
+Total Units:  155,952
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     119,766,918 bytes
+Ratio:        31.4%
+SHA1:         b75164b0b9bdb4058a640fbc54e4b44dc4638092
+Data SHA1:    1b8ab6c535ea39cef5d665a82c83748dfe8c9630
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:155950 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Hotel Mario (1994)(Philips)(US).chd
+File Version: 5
+Logical size: 382,132,800 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  19,513
+Unit Size:    2,448 bytes
+Total Units:  156,100
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     119,769,075 bytes
+Ratio:        31.3%
+SHA1:         b98fb04b357c92e42797f1486160c670762b4329
+Data SHA1:    a1e67692e6b7f1abfd4690c5022a9819349d704e
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:156100 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Inca (1993)(Coktel Vision - Philips)(EU)(M4)[!][en-de-fr-nl][8100126 50341 698 01].chd
+File Version: 5
+Logical size: 657,376,128 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,567
+Unit Size:    2,448 bytes
+Total Units:  268,536
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     178,129,950 bytes
+Ratio:        27.1%
+SHA1:         01af974debc2d397186213e95a4753fb6c0c4e55
+Data SHA1:    ebbb863099276f56840212ed5a8d1f01ea19f790
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:268535 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Inca (1993-04-21)(Coktel Vision - Philips)(EU)(M4)[en-de-fr-nl][FPD Testing - Phase 1].chd
+File Version: 5
+Logical size: 647,672,256 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,072
+Unit Size:    2,448 bytes
+Total Units:  264,572
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     172,562,469 bytes
+Ratio:        26.6%
+SHA1:         8ffda4b734484f9d2f23f493dbca0dafcb061779
+Data SHA1:    901d3304693db5e99d7e4b3bb85c59ad7b6c61cc
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:264570 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Inca (1994)(Coktel Vision - Philips)(EU)(M4)[!][en-de-fr-nl][8100126V206 50399445 01].chd
+File Version: 5
+Logical size: 645,557,184 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  32,964
+Unit Size:    2,448 bytes
+Total Units:  263,708
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     177,131,660 bytes
+Ratio:        27.4%
+SHA1:         38c7edc97b9d4af71f6da69436ab96de30ddb9e4
+Data SHA1:    6d9a7d0ad00849ab081980c41f8ab5d371ac121e
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:263705 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Inca (1994)(Coktel Vision - Philips)(EU)(M4)[!][es-fr-it-pt].chd
+File Version: 5
+Logical size: 658,051,776 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,602
+Unit Size:    2,448 bytes
+Total Units:  268,812
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     174,327,651 bytes
+Ratio:        26.5%
+SHA1:         0907428604f6238fd220a455aca516169cfe2af8
+Data SHA1:    2f35471b992c0cc229d93e7eebc0bfe7c253b4bb
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:268812 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\International Tennis Open (1993)(Pathe - Philips)(EU-US)(en-fr)[!].chd
+File Version: 5
+Logical size: 383,542,848 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  19,585
+Unit Size:    2,448 bytes
+Total Units:  156,676
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     185,335,121 bytes
+Ratio:        48.3%
+SHA1:         fe3636263c9f2afa8d014ae0c9330539d555fc44
+Data SHA1:    3adea0c6d9fef35b65768fa14948b7c1c517f932
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:156675 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\International Tennis Open v1.01 (1994)(Pathe - Philips)(IT)(en-it)[2 players].chd
+File Version: 5
+Logical size: 361,510,848 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,460
+Unit Size:    2,448 bytes
+Total Units:  147,676
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     177,655,772 bytes
+Ratio:        49.1%
+SHA1:         9e2a05621eb7c1d54cf00bcb55498284f211fdc9
+Data SHA1:    a0f4ee605694f3eebbbcea8ab41acd3a948d65b4
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:147675 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\International Tennis Open v2.01 (1993)(Pathe - Philips)(ES)(en-es).chd
+File Version: 5
+Logical size: 384,463,296 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  19,632
+Unit Size:    2,448 bytes
+Total Units:  157,052
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     190,652,055 bytes
+Ratio:        49.6%
+SHA1:         f139228220ef957a488274fef9be9dddb9b4f6df
+Data SHA1:    dc7a9d654ff0e82f65fae9f771f6249637b5d8dd
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:157050 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\International Tennis Open v3.01 (1993)(Pathe - Philips)(DE)(en-de)[!].chd
+File Version: 5
+Logical size: 368,492,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,816
+Unit Size:    2,448 bytes
+Total Units:  150,528
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     186,368,654 bytes
+Ratio:        50.6%
+SHA1:         74ccd4905af824b2a020c838576b102b60eb01a5
+Data SHA1:    71105d1ee3932884b8a1bd2953b3ca3e9257c810
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:150525 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\International Tennis Open v3.01 (1994)(Pathe - Philips)(DE)(en-de)[2 players].chd
+File Version: 5
+Logical size: 376,384,896 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  19,219
+Unit Size:    2,448 bytes
+Total Units:  153,752
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     186,727,023 bytes
+Ratio:        49.6%
+SHA1:         a173720b1afe2dc48e90024d8c58da0c8cd85b35
+Data SHA1:    9920230ae52aa672a788edd4748e9511c17a1bac
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:153750 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\International Tennis Open v3.03 (1994)(Pathe - Philips)(EU)(en-fr)[!][2 players].chd
+File Version: 5
+Logical size: 390,524,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  19,941
+Unit Size:    2,448 bytes
+Total Units:  159,528
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     189,528,980 bytes
+Ratio:        48.5%
+SHA1:         ce7055658769e7a9913d5cd5d9725b2521d1a9e4
+Data SHA1:    59f61aab5a25730df18f6e67b721443770356235
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:159525 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\International Tennis Open v3.03 (1994)(Philips)(US)(en-fr)[!][2 players].chd
+File Version: 5
+Logical size: 390,886,848 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  19,960
+Unit Size:    2,448 bytes
+Total Units:  159,676
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     189,531,168 bytes
+Ratio:        48.5%
+SHA1:         64410045149b3479114f937f428ea2d03098fdf8
+Data SHA1:    454fd7460b5ac22a85212d2b5d53adbdfc169078
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:159675 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Jack Sprite vs. The Crimson Ghost (2002)(Good Deal Games - Oldergames).chd
+File Version: 5
+Logical size: 569,042,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  29,057
+Unit Size:    2,448 bytes
+Total Units:  232,452
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     211,742,502 bytes
+Ratio:        37.2%
+SHA1:         b934494d15715f622a3e899ec56ea5b79cc7522d
+Data SHA1:    e1da7a6ef0fb7091862be5904e710aa389bccf33
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:232450 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Jeopardy! (1994)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 490,765,248 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  25,060
+Unit Size:    2,448 bytes
+Total Units:  200,476
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     180,459,113 bytes
+Ratio:        36.8%
+SHA1:         0355cc4d1e5c953efe5082e2d4a78a2e18c89453
+Data SHA1:    29dba249cbb0094bde12cbfe7ce16806c498c946
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:200475 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Jigsaw - The Ultimate Electronic Challenge (1992)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 333,554,688 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  17,032
+Unit Size:    2,448 bytes
+Total Units:  136,256
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     99,037,532 bytes
+Ratio:        29.7%
+SHA1:         9f376c9f204039ad87538757af979053ea7c079a
+Data SHA1:    4976d84fc75c48f59128a673af5033bd049e0f1b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:136255 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Joker's Wild! Jr., The (1994)(Philips)(US).chd
+File Version: 5
+Logical size: 644,626,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  32,916
+Unit Size:    2,448 bytes
+Total Units:  263,328
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     353,419,549 bytes
+Ratio:        54.8%
+SHA1:         4a75cfdbcff97e4a8e8b261175e71ff8a568c91c
+Data SHA1:    6171a2d3d8b519daa43ec542536cbccc45f1618d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:263325 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Joker's Wild!, The (1994)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 673,816,896 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  34,407
+Unit Size:    2,448 bytes
+Total Units:  275,252
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     366,634,318 bytes
+Ratio:        54.4%
+SHA1:         c436be4eaa8d61ac3708340d5bdc39f4cc8c1944
+Data SHA1:    7556d45f3934608eee9d422af9c9df6c2886e421
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:275250 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kether v3.08 (1993)(Philips)(DE)(en-de).chd
+File Version: 5
+Logical size: 404,478,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  20,654
+Unit Size:    2,448 bytes
+Total Units:  165,228
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     140,362,732 bytes
+Ratio:        34.7%
+SHA1:         1936f9c57bda4ca017f8ab63393a60b1337ea0f1
+Data SHA1:    98fd292166f03867e3f1cf67e22153365ba2a895
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:165225 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kether v3.09 (1993)(Philips)(EU)(en-fr).chd
+File Version: 5
+Logical size: 398,779,200 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  20,363
+Unit Size:    2,448 bytes
+Total Units:  162,900
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     139,920,064 bytes
+Ratio:        35.1%
+SHA1:         8c2245c23cfea5822e48334b944b6202bce25e97
+Data SHA1:    031d398105908d6a3533dc8d478b3bb8492dbf74
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:162900 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kether v3.09 (1993)(Philips)(EU)(en-fr)[a].chd
+File Version: 5
+Logical size: 398,779,200 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  20,363
+Unit Size:    2,448 bytes
+Total Units:  162,900
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     139,920,078 bytes
+Ratio:        35.1%
+SHA1:         8cc60481afa68cdde9f28014d1fab2aa8aced983
+Data SHA1:    6793d09239f22cff4c726d41b2ca2e5008602ca8
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:162900 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kether v3.11 (1994)(Philips)(DE)(en-de)[!].chd
+File Version: 5
+Logical size: 404,478,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  20,654
+Unit Size:    2,448 bytes
+Total Units:  165,228
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     140,219,192 bytes
+Ratio:        34.7%
+SHA1:         f11f2b21f9c7f2b7cde5b753b008de3240077ea1
+Data SHA1:    978d6251035df91b4dec57872079b72f03c356ed
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:165225 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kether v3.11 (1994)(Philips)(EU)(en-fr)[!].chd
+File Version: 5
+Logical size: 398,779,200 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  20,363
+Unit Size:    2,448 bytes
+Total Units:  162,900
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     139,801,297 bytes
+Ratio:        35.1%
+SHA1:         e011e9d56d6967565a415091d8e7f84e037aca4b
+Data SHA1:    73d12de7e3ec47ed32b8b64c970cb2c2d2f11eac
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:162900 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kether v3.11 (1994)(Philips)(US)(en-fr).chd
+File Version: 5
+Logical size: 399,151,296 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  20,382
+Unit Size:    2,448 bytes
+Total Units:  163,052
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     139,803,445 bytes
+Ratio:        35.0%
+SHA1:         e6ad5719acaa4d41f11189f0ba84d6207715d02b
+Data SHA1:    1056a269dc0c6d4b807607b6ddf3587606ba4eab
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:163050 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kether v3.12 (1994)(Philips)(NL)(en-nl).chd
+File Version: 5
+Logical size: 405,946,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  20,729
+Unit Size:    2,448 bytes
+Total Units:  165,828
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     139,665,442 bytes
+Ratio:        34.4%
+SHA1:         d3ee75b46eed2fd3a892c924b2714d9efcbb9775
+Data SHA1:    ed8180b685c72657ee726c0d22527f9067b8c818
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:165825 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kingdom - Shadoan (1996)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 795,335,616 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,612
+Unit Size:    2,448 bytes
+Total Units:  324,892
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     619,897,690 bytes
+Ratio:        77.9%
+SHA1:         4610c66623cf3b62b6cd1c46684eda7038a013b8
+Data SHA1:    dba9ebb2eb69f9114d908d45cb0bb398af29f267
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:324890 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Kingdom - The Far Reaches (1995)(Philips)(US)[!][DVC].chd
+File Version: 5
+Logical size: 703,457,280 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,920
+Unit Size:    2,448 bytes
+Total Units:  287,360
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     563,552,024 bytes
+Ratio:        80.1%
+SHA1:         f1c1e78853e6c563b8f51bca202228de11fa41a8
+Data SHA1:    b63a0e5b5382a9be37a0a86b68afe4b01f9dd081
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:287360 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\L'Ange et le Demon (1993)(Philips)(FR).chd
+File Version: 5
+Logical size: 743,584,896 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  37,969
+Unit Size:    2,448 bytes
+Total Units:  303,752
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     264,256,386 bytes
+Ratio:        35.5%
+SHA1:         1a88a055e35b9162b093470269fe191f1b614fe2
+Data SHA1:    b9e8a096f4f9387a55575f51e39c55827969115e
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:303750 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\L'Open de Palm Springs (1992)(Philips)(FR).chd
+File Version: 5
+Logical size: 277,681,536 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  14,179
+Unit Size:    2,448 bytes
+Total Units:  113,432
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     119,769,383 bytes
+Ratio:        43.1%
+SHA1:         d961d08e5207c79d5f3ba036feaa800ae86419d5
+Data SHA1:    d136b52ee4aa437b1c738324b88233e36593eebc
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:113430 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Labyrinth of Crete (1995)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 528,043,392 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  26,963
+Unit Size:    2,448 bytes
+Total Units:  215,704
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     152,588,034 bytes
+Ratio:        28.9%
+SHA1:         7a2c78c7881b996f0042f24241cfe062e37b58af
+Data SHA1:    73cd59429db453dcf57ec1845b39370f02428087
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:215702 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Laser Lords (1992)(Philips)(US)[07420911 01].chd
+File Version: 5
+Logical size: 712,250,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  36,369
+Unit Size:    2,448 bytes
+Total Units:  290,952
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     391,386,238 bytes
+Ratio:        55.0%
+SHA1:         1d0ccff1350d6a7959fed16522b86390bbac27ae
+Data SHA1:    801341bce8750b908a8efc2eb961a5478b1695d1
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:290952 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Laser Lords (1992)(Philips)(US)[3106900742 50273 097 01].chd
+File Version: 5
+Logical size: 712,260,288 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  36,370
+Unit Size:    2,448 bytes
+Total Units:  290,956
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     391,386,349 bytes
+Ratio:        54.9%
+SHA1:         1a6889ddbe78d48f0d8bcd7bce43bd75c37e7b3e
+Data SHA1:    36c0120671b64f7d07730f5f39c2ca9fa8d33268
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:290955 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Last Bounty Hunter, The (1996)(Philips)(EU).chd
+File Version: 5
+Logical size: 354,793,536 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,117
+Unit Size:    2,448 bytes
+Total Units:  144,932
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     310,148,449 bytes
+Ratio:        87.4%
+SHA1:         ad0a4977e9db343007042c4667e04363be6de1d8
+Data SHA1:    6e264e44d86251fe74fe00f6c933d89e14fbd94f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:144930 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Lemmings (1994)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 142,473,600 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  7,275
+Unit Size:    2,448 bytes
+Total Units:  58,200
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     33,155,734 bytes
+Ratio:        23.3%
+SHA1:         fb7db4b51cc65fbb657a7b8f8c834779afd283ee
+Data SHA1:    7334f981ddcd5b04417cbe54cdd4787d96837a4c
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:58200 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Lingo v1.07 (1995)(Philips)(NL)[!].chd
+File Version: 5
+Logical size: 147,986,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  7,557
+Unit Size:    2,448 bytes
+Total Units:  60,452
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     44,377,038 bytes
+Ratio:        30.0%
+SHA1:         8816a09288ab49778767917e201df3320c7e9e5c
+Data SHA1:    a43508a7596bbde9ba33160efbf18b3b2369a622
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:60450 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Link - De Gezichten Van Het Kwaad (1993)(Philips)(NL).chd
+File Version: 5
+Logical size: 626,178,816 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,974
+Unit Size:    2,448 bytes
+Total Units:  255,792
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     118,126,440 bytes
+Ratio:        18.9%
+SHA1:         4aa04a66525719e4870185dab13acb165f8597b4
+Data SHA1:    d81b8f075d9fb97b57e22ae6175d6b249324ee00
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:255790 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Link - Die Fratzen des Boesen (1993)(Philips)(DE).chd
+File Version: 5
+Logical size: 626,178,816 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,974
+Unit Size:    2,448 bytes
+Total Units:  255,792
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     118,326,425 bytes
+Ratio:        18.9%
+SHA1:         2d8cce7d5ee2e085a596d3001741f32a28e910ae
+Data SHA1:    349671032f0e50fed700317c283e0a83506f6717
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:255790 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Link - The Faces of Evil (1993)(Philips)(EU).chd
+File Version: 5
+Logical size: 626,139,648 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,972
+Unit Size:    2,448 bytes
+Total Units:  255,776
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     116,977,832 bytes
+Ratio:        18.7%
+SHA1:         2e19096c168be12d84e66dceee2cc9ae5a2cd51b
+Data SHA1:    ed181dd7e669bdc8a73d60812760a2fbef9641b2
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:255774 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Link - The Faces of Evil (1993)(Philips)(FR).chd
+File Version: 5
+Logical size: 626,129,856 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,972
+Unit Size:    2,448 bytes
+Total Units:  255,772
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     116,510,972 bytes
+Ratio:        18.6%
+SHA1:         376344e087e2e89f57d0b0b5bfa8010b758d672b
+Data SHA1:    5ce124bc8f2977dbed3ff82eccd35dde50bc4225
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:255770 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Litil Divil (1994)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 602,580,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  30,769
+Unit Size:    2,448 bytes
+Total Units:  246,152
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     134,621,519 bytes
+Ratio:        22.3%
+SHA1:         082daaf429adcb61940151af0a8bf1a4531c5acc
+Data SHA1:    404d2b4ee8ffcc14a783156725af0291e4a4ee16
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:246150 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Litil Divil (1994)(Philips)(US)[!][DVC].chd
+File Version: 5
+Logical size: 602,942,400 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  30,788
+Unit Size:    2,448 bytes
+Total Units:  246,300
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     134,645,087 bytes
+Ratio:        22.3%
+SHA1:         cd8bbf35469e4cb5f112e258c9c45b34b71fed8e
+Data SHA1:    0cebdcd4a691c68ef6a402d71fe2b65db41b8f7f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:246300 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Lords of the Rising Sun (1992)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 327,532,608 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  16,725
+Unit Size:    2,448 bytes
+Total Units:  133,796
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     149,702,083 bytes
+Ratio:        45.7%
+SHA1:         ecd2a1427a80b7efe806b1a673bb1368475c6e2f
+Data SHA1:    5181c71a322efce0baac78f0b220c674f72bcaf3
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:133795 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Lost Eden (1995)(Philips)(DE)[!][DVC].chd
+File Version: 5
+Logical size: 799,585,344 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,829
+Unit Size:    2,448 bytes
+Total Units:  326,628
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     525,636,627 bytes
+Ratio:        65.7%
+SHA1:         643d74a82cf874e72ab809a319e0b9433e618e10
+Data SHA1:    9b4091282bba00b8f33b1f286b722395c5c10429
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:326625 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Lost Eden (1995)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 791,869,248 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,435
+Unit Size:    2,448 bytes
+Total Units:  323,476
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     518,164,266 bytes
+Ratio:        65.4%
+SHA1:         b167782f17f03ff44ad373484363ea906da81c9e
+Data SHA1:    988107d77e86cf9c9671964c88b1f0401bc35308
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:323475 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Lost Eden (1995)(Philips)(NL)(M4)[!][DVC].chd
+File Version: 5
+Logical size: 791,683,200 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,425
+Unit Size:    2,448 bytes
+Total Units:  323,400
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     519,206,381 bytes
+Ratio:        65.6%
+SHA1:         fa46e4f9bf2c0370dc0fbea2334475d43b1eac68
+Data SHA1:    5fa211b532902ecc43b2ce3ac0cde8ee18464d4d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:323400 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Lost Ride, The (1998)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 311,581,440 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  15,910
+Unit Size:    2,448 bytes
+Total Units:  127,280
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     239,612,986 bytes
+Ratio:        76.9%
+SHA1:         0166e26a53973b21ec2d8a5e30d03e7b79981f4c
+Data SHA1:    027f66b532febbd539c4b517d1a59cc870ab5465
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:127277 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mad Dog 2 - le Tresor Perdu (1996)(Philips)(FR)[DVC].chd
+File Version: 5
+Logical size: 365,368,896 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,657
+Unit Size:    2,448 bytes
+Total Units:  149,252
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     319,064,573 bytes
+Ratio:        87.3%
+SHA1:         89e8c1ed9fa68dad4b62e44999406f4d8d4888a0
+Data SHA1:    d1a2f4b74d81cb33a08371f5f1b46a7e1fb21aa8
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:149250 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mad Dog II - the Lost Gold (1995)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 359,444,736 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,354
+Unit Size:    2,448 bytes
+Total Units:  146,832
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     315,636,795 bytes
+Ratio:        87.8%
+SHA1:         d2060a67812405c53e89e21da9bfa6b1da8b447a
+Data SHA1:    7044a55d8f5d819dabf04d4feb2c5ee8447131d8
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:146830 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mad Dog McCree (1994)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 478,564,416 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  24,437
+Unit Size:    2,448 bytes
+Total Units:  195,492
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     281,715,208 bytes
+Ratio:        58.9%
+SHA1:         557f757ca52e69e1c8d08b5bf24b3bf5ad6d3927
+Data SHA1:    951a2d31db8b9830fde2df8fb0e45938ba18b0c0
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:195492 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mad Dog McCree (1994)(Philips)(US)[DVC][05820818 N01].chd
+File Version: 5
+Logical size: 478,926,720 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  24,455
+Unit Size:    2,448 bytes
+Total Units:  195,640
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     281,719,010 bytes
+Ratio:        58.8%
+SHA1:         db80f64fc5942e8eedb4206f7c5e7c3a8fe6878e
+Data SHA1:    c79717a06fbf48042dc6e72121772977384f1fdf
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:195640 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mad Dog McCree (1994)(Philips)(US)[DVC][05820826 01].chd
+File Version: 5
+Logical size: 478,926,720 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  24,455
+Unit Size:    2,448 bytes
+Total Units:  195,640
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     281,719,034 bytes
+Ratio:        58.8%
+SHA1:         fb75e07a927b39effb31b4284591f1da7e22bda7
+Data SHA1:    131d07fa3644b464b9443a33e0cfdb3b7adaa91f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:195640 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Magic Eraser (1994)(ZYX-Music)(DE).chd
+File Version: 5
+Logical size: 472,228,992 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  24,113
+Unit Size:    2,448 bytes
+Total Units:  192,904
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     52,915,754 bytes
+Ratio:        11.2%
+SHA1:         049e621bb0da6ad8d58a16fec79546a051281ad6
+Data SHA1:    d3c64099bfaeae4b5be4c56e0e479eddc416d4f2
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:192902 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Making the Grade v0.90 (1994)(Philips)(EU)[pre-release][DVC].chd
+File Version: 5
+Logical size: 777,181,248 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,685
+Unit Size:    2,448 bytes
+Total Units:  317,476
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     593,783,101 bytes
+Ratio:        76.4%
+SHA1:         1380f531193b2fdee166ec8b03dc92dfba483669
+Data SHA1:    f4fee212e5d1e6c2541a8a547dc325adc72bc46b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:317475 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Marco Polo (1995)(Philips)(EU)(Disc 1 of 2)[!][The Game].chd
+File Version: 5
+Logical size: 739,364,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  37,754
+Unit Size:    2,448 bytes
+Total Units:  302,028
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     465,144,663 bytes
+Ratio:        62.9%
+SHA1:         028e7ac23ff6ee4ebf56a582534dc429b245b73c
+Data SHA1:    68739b286e6a52ce50f1660ec310a79b09f0dfab
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:302025 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Marco Polo (1995)(Philips)(EU)(Disc 2 of 2)[!][The Documentation].chd
+File Version: 5
+Logical size: 215,002,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  10,979
+Unit Size:    2,448 bytes
+Total Units:  87,828
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     138,510,646 bytes
+Ratio:        64.4%
+SHA1:         9751a19a2bc20724b0100fbf9bdd17815ed7cc14
+Data SHA1:    582921db759a9dcb98e14844e71baa975df2f6e1
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:87825 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Marco Polo (1995)(Philips)(FR)(Disc 1 of 2)[Le Jeu].chd
+File Version: 5
+Logical size: 693,273,600 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,400
+Unit Size:    2,448 bytes
+Total Units:  283,200
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     436,601,810 bytes
+Ratio:        63.0%
+SHA1:         f65946a08b410f6a42b9270d7f560d23183afdba
+Data SHA1:    b007c93600e7a167cb25bf2b48ec36d9dae2e47e
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:283200 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Marco Polo (1995)(Philips)(FR)(Disc 2 of 2)[La Documentation].chd
+File Version: 5
+Logical size: 219,409,344 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  11,204
+Unit Size:    2,448 bytes
+Total Units:  89,628
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     141,838,565 bytes
+Ratio:        64.6%
+SHA1:         a0b5aa9fbe39619685f5a8da77a1190adb9dfccb
+Data SHA1:    61aa2223e6c9864ed0bf32c7574e6f525540ba6d
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:89625 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Master Labyrinth v1.06 (1995)(Pack-In-Video)(EU)[DVC].chd
+File Version: 5
+Logical size: 714,022,848 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  36,460
+Unit Size:    2,448 bytes
+Total Units:  291,676
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     262,924,737 bytes
+Ratio:        36.8%
+SHA1:         90a923053ac6abc6e0d23cc286a83eabe93b8a55
+Data SHA1:    f4e3a35f5ba5d4bb5b3fb0d645fd1f99812be95a
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:291675 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mega Maze v1.06 (1994)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 93,445,056 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,772
+Unit Size:    2,448 bytes
+Total Units:  38,172
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     17,892,261 bytes
+Ratio:        19.1%
+SHA1:         32fafc06c32de3d07a8498a75543d4ddd76cfe0c
+Data SHA1:    6a8dc4defd09c6352b38069cea788889cc7ed0b8
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:38170 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mega Maze v1.06 (1994)(Philips)(US).chd
+File Version: 5
+Logical size: 93,807,360 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,790
+Unit Size:    2,448 bytes
+Total Units:  38,320
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     17,894,304 bytes
+Ratio:        19.1%
+SHA1:         af5c9cb7bea9f1817df6e5da39191cb5e2e994db
+Data SHA1:    abb685a010dc6d384b1f60dc7de6426968df8801
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:38320 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Merlin's Apprentice v1.1 (1995)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 322,186,176 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  16,452
+Unit Size:    2,448 bytes
+Total Units:  131,612
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     99,625,106 bytes
+Ratio:        30.9%
+SHA1:         a6c5639efef3779d0c88dbe060e97c70e6620f23
+Data SHA1:    7ea9617b76a844a160fb8db9b012aeaa2061d5d6
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:131610 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Merlin's Apprentice v1.2 (1995)(Philips)(US).chd
+File Version: 5
+Logical size: 322,548,480 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  16,470
+Unit Size:    2,448 bytes
+Total Units:  131,760
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     99,627,023 bytes
+Ratio:        30.9%
+SHA1:         1cbad0c40dc82925c1d298fddc6e3aa9ff872511
+Data SHA1:    dc930f2f557616a00ed1bb0afc273446e92a69b7
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:131760 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Micro Machines (1995)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 321,667,200 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  16,425
+Unit Size:    2,448 bytes
+Total Units:  131,400
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     113,114,509 bytes
+Ratio:        35.2%
+SHA1:         4ee560e018327edec4bec0da2475412451dc0dfb
+Data SHA1:    580bb1c4d73467a1b93f68d3c0fce04e7f4ec8f5
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:131400 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mutant Rampage - Bodyslam (1994)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 687,868,416 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,124
+Unit Size:    2,448 bytes
+Total Units:  280,992
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     267,900,483 bytes
+Ratio:        38.9%
+SHA1:         ed30c69600ff179cb6af9e45b34b09e1fc2799f9
+Data SHA1:    b06eafad68bd009fe4e1a1f73761a8d5ae5bf89f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:280990 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mutant Rampage - Bodyslam (1994)(Philips)(US)[DVC].chd
+File Version: 5
+Logical size: 688,230,720 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,143
+Unit Size:    2,448 bytes
+Total Units:  281,140
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     267,902,645 bytes
+Ratio:        38.9%
+SHA1:         637f5ccd865a3002b69b958abb6de0224a7a233a
+Data SHA1:    7ab70eaca0246cb903bf4edb576d55825c394722
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:281140 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Myst (1996)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 807,360,192 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,226
+Unit Size:    2,448 bytes
+Total Units:  329,804
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     334,696,373 bytes
+Ratio:        41.5%
+SHA1:         4d678435ae3866db42879ee119162e5a14d706f8
+Data SHA1:    285e5062df3b06cb5fc068bf7debfc52b3b748a3
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:329802 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mystic Midway - Phantom Express (1993)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 465,061,248 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  23,747
+Unit Size:    2,448 bytes
+Total Units:  189,976
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     174,718,717 bytes
+Ratio:        37.6%
+SHA1:         8a688d06c5def77c98046b02358b29575b830d2f
+Data SHA1:    be39ded056ce0799b190f80e547c34f53e6a71a4
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:189975 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mystic Midway - Rest in Pieces (1992)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 203,115,456 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  10,372
+Unit Size:    2,448 bytes
+Total Units:  82,972
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     68,749,265 bytes
+Ratio:        33.8%
+SHA1:         dfccc6fbd1f6c1113ae23d9c9ac3aac9437b91df
+Data SHA1:    2c76f16266bf9bbd8fcfe28e5363b29ef38ea87e
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:82970 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Mystic Midway - Rest in Pieces (1992)(Philips)(JP).chd
+File Version: 5
+Logical size: 203,115,456 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  10,372
+Unit Size:    2,448 bytes
+Total Units:  82,972
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     68,554,887 bytes
+Ratio:        33.8%
+SHA1:         11ab543bbba6b810736548fea2e791fd894d9311
+Data SHA1:    9f074ecbdaa4d5bf17f577a6b799f698bf553953
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:82970 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\NFL Football Trivia Challenge '94-'95 Edition (1994)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 679,398,336 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  34,692
+Unit Size:    2,448 bytes
+Total Units:  277,532
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     367,170,756 bytes
+Ratio:        54.0%
+SHA1:         2b7cb525b99bddc159437645000f37873dd6a803
+Data SHA1:    03b2cb62c7c09265b6bd29f5bcf7474b1a8a6bf4
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:277530 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\NFL Football Trivia Challenge (1993)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 682,796,160 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  34,865
+Unit Size:    2,448 bytes
+Total Units:  278,920
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     371,297,848 bytes
+Ratio:        54.4%
+SHA1:         c63e33c3e04488d0875f57a401bee8513e0e4880
+Data SHA1:    01a3ac12008a49bff796ad260ebb5ae77ed12aa0
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:278920 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\NFL Hall of Fame Football (1994)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 801,964,800 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,950
+Unit Size:    2,448 bytes
+Total Units:  327,600
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     652,702,243 bytes
+Ratio:        81.4%
+SHA1:         27462d56968053f465f4781a4d7117fe2419e147
+Data SHA1:    7fa38dd89eed4dae492d741a8345fe66916469bc
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:327600 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Othello (1993)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 713,278,656 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  36,422
+Unit Size:    2,448 bytes
+Total Units:  291,372
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     283,139,172 bytes
+Ratio:        39.7%
+SHA1:         ac62c92433d57b5f18e0ab01542581405eac8035
+Data SHA1:    31662b68d1bcc974f85438789b1e77e2d7c90324
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:291372 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Pac-Panic (1995)(Namco - Philips)(EU)[!].chd
+File Version: 5
+Logical size: 69,954,048 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  3,572
+Unit Size:    2,448 bytes
+Total Units:  28,576
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     14,979,056 bytes
+Ratio:        21.4%
+SHA1:         13656f7d2cf32c2ebd8ad3b8582929a8ed61d377
+Data SHA1:    fb08103145ab062990b88e6e70a97c009bc22b97
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:28575 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Palm Springs Open, Die (1992)(Philips)(DE)[!].chd
+File Version: 5
+Logical size: 278,171,136 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  14,204
+Unit Size:    2,448 bytes
+Total Units:  113,632
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     123,067,153 bytes
+Ratio:        44.2%
+SHA1:         bead71e36309bf836914b72afb0fcc6eed77e74b
+Data SHA1:    25cd89e01dd6e984acb48f5cc30382154e09f584
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:113630 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Palm Springs Open, The (1991)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 277,681,536 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  14,179
+Unit Size:    2,448 bytes
+Total Units:  113,432
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     131,891,454 bytes
+Ratio:        47.5%
+SHA1:         ccedb03825565220da7d5a58c12b0f43afdcb83b
+Data SHA1:    00f36dd8bbc29cb2412a431326d8c812fa04802e
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:113430 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Palm Springs Open, The (1991)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 277,681,536 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  14,179
+Unit Size:    2,448 bytes
+Total Units:  113,432
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     131,891,407 bytes
+Ratio:        47.5%
+SHA1:         af2b213ecf4f44011dee2cda99d21a6b34d3bacd
+Data SHA1:    c410d4a62606ec44294baf0ab8dc76eff5613f00
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:113430 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Palm Springs Open, The (1992)(Philips)(IT).chd
+File Version: 5
+Logical size: 277,681,536 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  14,179
+Unit Size:    2,448 bytes
+Total Units:  113,432
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     114,699,431 bytes
+Ratio:        41.3%
+SHA1:         c39c6ff4ed48a41c8499b38638ae37cdc96cdc65
+Data SHA1:    7a3c8a759143b06ff984c49716eff0503289de41
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:113430 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Pinball (1992)(Philips)(US)[!][3106900342 50238 037 03].chd
+File Version: 5
+Logical size: 92,172,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,707
+Unit Size:    2,448 bytes
+Total Units:  37,652
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     34,773,544 bytes
+Ratio:        37.7%
+SHA1:         9e77974b1cf5499044e994712dec837df6e64bee
+Data SHA1:    24f359a986fa1de189a4ad1aa3d53691c09890e5
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:37650 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Pinball (1992)(Philips)(US)[!][3106900342 50238 037 04].chd
+File Version: 5
+Logical size: 92,172,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,707
+Unit Size:    2,448 bytes
+Total Units:  37,652
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     34,946,916 bytes
+Ratio:        37.9%
+SHA1:         66d801ad823f32ae1fd0058fd5162d5acca1bf23
+Data SHA1:    771368cf85a820c03f1ec64aea4dcaa770c9d0f2
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:37650 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Plunderball (2002)(Good Deal Games - Oldergames).chd
+File Version: 5
+Logical size: 449,041,536 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  22,929
+Unit Size:    2,448 bytes
+Total Units:  183,432
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     144,874,714 bytes
+Ratio:        32.3%
+SHA1:         56b690fc9bc831d3c64ec7b7381e52e2f2ce4b49
+Data SHA1:    616e1dfc9db5f65deb7a10876b223e0e28b98e6f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:183430 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Power Hitter (1992)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 412,840,512 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  21,081
+Unit Size:    2,448 bytes
+Total Units:  168,644
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     125,972,706 bytes
+Ratio:        30.5%
+SHA1:         f1966ff29aded36948d8464fa1281e713441bc01
+Data SHA1:    0b9875e829b9215d3c60ceba8267535c196cdb1b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:168642 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Power Hitter (1993)(Philips)(US)[08120804 01].chd
+File Version: 5
+Logical size: 412,860,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  21,082
+Unit Size:    2,448 bytes
+Total Units:  168,652
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     125,972,811 bytes
+Ratio:        30.5%
+SHA1:         2598ee8feeff8f2bae372717c45f79311a332a0f
+Data SHA1:    a52fee59f0bb9ade2306f1a0577aa6d1e7254bf4
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:168650 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Power Hitter (1993)(Philips)(US)[08120908 01].chd
+File Version: 5
+Logical size: 413,124,480 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  21,095
+Unit Size:    2,448 bytes
+Total Units:  168,760
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     125,844,909 bytes
+Ratio:        30.5%
+SHA1:         4c42959a6ab95a69771274e8d7f397546ca2e02a
+Data SHA1:    803df1998021740792000f2fa79f90c7df4a8248
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:168760 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Rise of the Robots (1995)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 318,367,296 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  16,257
+Unit Size:    2,448 bytes
+Total Units:  130,052
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     114,741,762 bytes
+Ratio:        36.0%
+SHA1:         e28e1077e225f0805b095786be3371c0fee8f26f
+Data SHA1:    a7c4ee8428cf0bd22ba6ed50be791ec68acf6701
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:130050 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Sargon Chess (1992)(Philips)(US)[!][690 030-2 50253 278 01].chd
+File Version: 5
+Logical size: 412,341,120 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  21,055
+Unit Size:    2,448 bytes
+Total Units:  168,440
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     95,551,171 bytes
+Ratio:        23.2%
+SHA1:         de79986b70aa19c8427d55a153e8bb38399b0e42
+Data SHA1:    ffaf68ccb613f5d777a6a4492d5435eda10f509c
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:168440 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Sargon Chess (1992)(Philips)(US)[03020320 01].chd
+File Version: 5
+Logical size: 412,517,376 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  21,064
+Unit Size:    2,448 bytes
+Total Units:  168,512
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     95,552,181 bytes
+Ratio:        23.2%
+SHA1:         d20e612d4ec05dd48add004bf77c64796e4b5df4
+Data SHA1:    a377adbe2d8cf1f3abeda5e760d6ea7b21b81e7d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:168510 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Scotland Yard - Interactif v1.04 (1994)(Philips)(FR).chd
+File Version: 5
+Logical size: 574,858,944 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  29,354
+Unit Size:    2,448 bytes
+Total Units:  234,828
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     118,476,284 bytes
+Ratio:        20.6%
+SHA1:         82333813d0680e0798d60282ac88544f4ab29e5a
+Data SHA1:    d7acef5904ba2680254e108390acf801c1f5a623
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:234825 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Scotland Yard - Interactive v1.03 (1994)(Philips)(EU).chd
+File Version: 5
+Logical size: 568,063,296 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  29,007
+Unit Size:    2,448 bytes
+Total Units:  232,052
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     115,792,856 bytes
+Ratio:        20.4%
+SHA1:         21758e2a18b5b2a89ca1cb858cfab1db63d1a0b9
+Data SHA1:    e80872d0296a1d0e1b51a88f88b41f10bd8be23b
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:232050 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Scotland Yard - Interactive v1.09 (1993)(Philips)(DE)[!].chd
+File Version: 5
+Logical size: 632,504,448 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  32,297
+Unit Size:    2,448 bytes
+Total Units:  258,376
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     121,985,251 bytes
+Ratio:        19.3%
+SHA1:         1db8ec3acf52938d99fc2d6d19e41d8613d94c52
+Data SHA1:    aa7c7dd4cda6101044e2350ef09b4cc7b87fa0ae
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:258375 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Secret Mission v1.03 (1996)(Philips)(DE).chd
+File Version: 5
+Logical size: 656,377,344 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,516
+Unit Size:    2,448 bytes
+Total Units:  268,128
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     166,529,037 bytes
+Ratio:        25.4%
+SHA1:         fed217a7b4cd29d315d0a89913afcb4d07e98073
+Data SHA1:    e0a3a4c285d217a644b6e00da8e29d17d66b3244
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:268125 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Secret Mission v1.03 (1996)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 662,252,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,816
+Unit Size:    2,448 bytes
+Total Units:  270,528
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     166,432,798 bytes
+Ratio:        25.1%
+SHA1:         24474810c1a3f7a348da3ffc964691cdfe1be682
+Data SHA1:    46731c1d210386c5a8f653b58dbde6c0c69cdaf0
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:270525 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Secret Mission v1.03 (1996)(Philips)(NL).chd
+File Version: 5
+Logical size: 662,252,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,816
+Unit Size:    2,448 bytes
+Total Units:  270,528
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     167,493,004 bytes
+Ratio:        25.3%
+SHA1:         a892fe6b2f6e3c699b9aff90c128df71487af56d
+Data SHA1:    02220470fd03efc8a895f268ff3f6f5cf69cf713
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:270525 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Shaolin's Road (1995)(Philips)(EU)(en-fr).chd
+File Version: 5
+Logical size: 635,079,744 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  32,429
+Unit Size:    2,448 bytes
+Total Units:  259,428
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     191,006,808 bytes
+Ratio:        30.1%
+SHA1:         2513504bd908e51270e875142129d515d499fbc7
+Data SHA1:    0b35a2881ad7d2d2325b79962182c56a9d048e2f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:259425 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Space Ace (1994)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 473,688,000 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  24,188
+Unit Size:    2,448 bytes
+Total Units:  193,500
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     378,998,648 bytes
+Ratio:        80.0%
+SHA1:         74fdcdaf3f9a14ea8c701b4ccabbc1268745d455
+Data SHA1:    8ed8cb1213ba8d833150509559b2c9bc584c1cc2
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:193500 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Space Ace (1994)(Philips)(US)[!][DVC].chd
+File Version: 5
+Logical size: 474,060,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  24,207
+Unit Size:    2,448 bytes
+Total Units:  193,652
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     379,000,826 bytes
+Ratio:        79.9%
+SHA1:         25a5608592765d00be604d0139679f054ac345f0
+Data SHA1:    05f2b98e7e95ce4beee473623f851048d9190910
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:193650 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Space Ranger (2002)(Good Deal Games - Oldergames).chd
+File Version: 5
+Logical size: 88,157,376 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,502
+Unit Size:    2,448 bytes
+Total Units:  36,012
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     25,226,457 bytes
+Ratio:        28.6%
+SHA1:         3591cb7eb6c6b4172af406372a2a3c77e3cfea4b
+Data SHA1:    692d06928965e15b9400e9ce8b2374284553f9a7
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:36010 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Sport Freaks (1996)(Philips)(NL).chd
+File Version: 5
+Logical size: 45,356,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  2,316
+Unit Size:    2,448 bytes
+Total Units:  18,528
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     18,034,031 bytes
+Ratio:        39.8%
+SHA1:         50df8c858f932b5e46098b0c964bd250b7b5cde3
+Data SHA1:    4de63ff2ca56beb08765ebb9494fb5fde1136855
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:18527 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Striker Pro (1994)(Philips)(EU)(M6)[!].chd
+File Version: 5
+Logical size: 81,156,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,144
+Unit Size:    2,448 bytes
+Total Units:  33,152
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     19,932,179 bytes
+Ratio:        24.6%
+SHA1:         f68f0e06af39754caed6fb8407b0cd6880f7478c
+Data SHA1:    ae55933bcd5e7f309d7db783bdc580965caf5b1d
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:33150 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Striker Pro (1994)(Philips)(US)(M6).chd
+File Version: 5
+Logical size: 81,518,400 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  4,163
+Unit Size:    2,448 bytes
+Total Units:  33,300
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     19,935,061 bytes
+Ratio:        24.5%
+SHA1:         4afe100ce980638bf63add2eb0628aa6bc0516d9
+Data SHA1:    13977b7d7af21561abde24f8240e17b1143e60f5
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:33300 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Strip Poker Live (1995)(Green Pig Production)(EU).chd
+File Version: 5
+Logical size: 669,038,400 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  34,163
+Unit Size:    2,448 bytes
+Total Units:  273,300
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     436,457,110 bytes
+Ratio:        65.2%
+SHA1:         760f6f80eaadc5961c18564b12e0e3e828d01f5c
+Data SHA1:    7402e0c45a81669701168fc2b2dff063352af600
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:273300 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Strip-Poker Pro (1994)(Hot Stage)(FR)(en-fr).chd
+File Version: 5
+Logical size: 508,841,280 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  25,983
+Unit Size:    2,448 bytes
+Total Units:  207,860
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     155,725,913 bytes
+Ratio:        30.6%
+SHA1:         c6909c72f5215b1a6c40e5a1ebe5355984fca0f8
+Data SHA1:    5b4ffb11b25156e7c6d91e6296c7252a1e53cd20
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:207860 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Tangram - The Ultimate Chinese Game (1992)(Philips)(EU)(M8)[!].chd
+File Version: 5
+Logical size: 698,414,400 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,663
+Unit Size:    2,448 bytes
+Total Units:  285,300
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     170,051,560 bytes
+Ratio:        24.3%
+SHA1:         1defa196d6581b2dce29b45854d02989c43727c7
+Data SHA1:    9961bb7fe172398dfd081ce340f81c0de982b951
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:285300 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Tetris (1992)(Philips)(EU-US)[!].chd
+File Version: 5
+Logical size: 624,024,576 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,864
+Unit Size:    2,448 bytes
+Total Units:  254,912
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     348,788,613 bytes
+Ratio:        55.9%
+SHA1:         69faa0c8fb700d4d913529eb991c03a15462f548
+Data SHA1:    ca5a6eeb3a0b72b09eb34a4d5620afc0626a7fc1
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:254910 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Tetsuo Gaiden (1997)(New Frontier)(EU)[DVC].chd
+File Version: 5
+Logical size: 186,547,392 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  9,526
+Unit Size:    2,448 bytes
+Total Units:  76,204
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     143,057,618 bytes
+Ratio:        76.7%
+SHA1:         173be08de601a4e627879ac1c6135cd11cc93795
+Data SHA1:    3fd1ade05aa8ecdd79ff71832e3bf1209f0e4d3e
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:76202 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\TextTiles v1 (1992)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 352,737,216 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,012
+Unit Size:    2,448 bytes
+Total Units:  144,092
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     65,959,787 bytes
+Ratio:        18.7%
+SHA1:         a7a18810ef07379e1984f5e97b6324a919b4a9c3
+Data SHA1:    20cc6e7207bbec67ec64c1916954a709059f0e3d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:144090 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Thunder in Paradise (1995)(Philips)(EU)(Disc 1 of 2)[!][The Game][DVC].chd
+File Version: 5
+Logical size: 767,634,048 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,197
+Unit Size:    2,448 bytes
+Total Units:  313,576
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     629,760,343 bytes
+Ratio:        82.0%
+SHA1:         b5fce8515b52a77148d81306832354ff6067b05b
+Data SHA1:    c05835d853ae5fb7aae8e4a11834fa55c850e819
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:313575 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Thunder in Paradise (1995)(Philips)(EU)(Disc 2 of 2)[!][The Episode][DVC].chd
+File Version: 5
+Logical size: 745,464,960 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,065
+Unit Size:    2,448 bytes
+Total Units:  304,520
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     694,499,635 bytes
+Ratio:        93.2%
+SHA1:         9b2023faacf07e8a4dbd164a3b3fbb0649100767
+Data SHA1:    d3462de71c11236f40f10862a321ae8ea98e2ef8
+Metadata:     Tag='CHT2'  Index=0  Length=91 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:3375 PREGAP:0 PGT
+Metadata:     Tag='CHT2'  Index=1  Length=90 bytes
+              TRACK:2 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:675 PREGAP:0 PGTY
+Metadata:     Tag='CHT2'  Index=2  Length=90 bytes
+              TRACK:3 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:600 PREGAP:0 PGTY
+Metadata:     Tag='CHT2'  Index=3  Length=93 bytes
+              TRACK:4 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:299865 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Thunder in Paradise (1995)(Philips)(US)(Disc 1 of 2)[!][The Game][DVC].chd
+File Version: 5
+Logical size: 768,006,144 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,216
+Unit Size:    2,448 bytes
+Total Units:  313,728
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     629,762,489 bytes
+Ratio:        82.0%
+SHA1:         011c70227c12187177d516c6c3e4b4dc45861b1c
+Data SHA1:    33723cfe2131c2201ba5090918c4838b4fa7db87
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:313725 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Thunder in Paradise (1995)(Philips)(US)(Disc 2 of 2)[!][The Episode][DVC].chd
+File Version: 5
+Logical size: 749,871,360 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  38,290
+Unit Size:    2,448 bytes
+Total Units:  306,320
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     697,034,294 bytes
+Ratio:        93.0%
+SHA1:         900544c26fd9c133efd61b30f5e5d4660bce7ee0
+Data SHA1:    fc1fe976301ba2dcbc12d24f46affad6f85f9b6e
+Metadata:     Tag='CHT2'  Index=0  Length=91 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:3300 PREGAP:0 PGT
+Metadata:     Tag='CHT2'  Index=1  Length=90 bytes
+              TRACK:2 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:602 PREGAP:0 PGTY
+Metadata:     Tag='CHT2'  Index=2  Length=90 bytes
+              TRACK:3 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:602 PREGAP:0 PGTY
+Metadata:     Tag='CHT2'  Index=3  Length=93 bytes
+              TRACK:4 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:301810 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Thunder in Paradise (1996)(Philips)(DE)(Disc 1 of 2)[Das Spiel][DVC].chd
+File Version: 5
+Logical size: 796,089,600 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,650
+Unit Size:    2,448 bytes
+Total Units:  325,200
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     628,610,540 bytes
+Ratio:        79.0%
+SHA1:         9c6261cb9725144836d90271417ff1e9ad235097
+Data SHA1:    3251828e23a15604344b11a25c43d834c6770cca
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:325200 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Ultimate Noah's Ark, The (1994)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 605,370,816 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  30,912
+Unit Size:    2,448 bytes
+Total Units:  247,292
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     197,378,900 bytes
+Ratio:        32.6%
+SHA1:         7b0c3e484d2bdec39bebdfe9d3fa03abab4e7a6f
+Data SHA1:    08b8010ec69c95fb7c0afc8ef025efcfdb922f60
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:247290 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Ultimate Noah's Ark, The (1994)(Philips)(US).chd
+File Version: 5
+Logical size: 605,733,120 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  30,930
+Unit Size:    2,448 bytes
+Total Units:  247,440
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     197,381,727 bytes
+Ratio:        32.6%
+SHA1:         5953502999d161117b63404758b35d6a4ade4a28
+Data SHA1:    b586471c56d4e47d1e33e5f9eaa845a5bb6197ac
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:247440 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Ultra CD-i Soccer (1997)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 19,280,448 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  985
+Unit Size:    2,448 bytes
+Total Units:  7,876
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     7,946,573 bytes
+Ratio:        41.2%
+SHA1:         c4aba1c2fe30c7aab7e1b8130644dd71c7a08505
+Data SHA1:    1df3ce613e28e2a3cb5a356992fb9f75e687cba2
+Metadata:     Tag='CHT2'  Index=0  Length=91 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:7875 PREGAP:0 PGT
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Vegas Girls (1995)(Status)(EU)[adult, access code 1234].chd
+File Version: 5
+Logical size: 608,269,248 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  31,060
+Unit Size:    2,448 bytes
+Total Units:  248,476
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     491,784,049 bytes
+Ratio:        80.8%
+SHA1:         1fc9e96ccae03d82c40bc749553ebc52ab8bf5e7
+Data SHA1:    78ff12dded4601c230ae73a98344d59ba92e0a4f
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:248475 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Video Grand Prix Speedway (1993)(Philips)(FR).chd
+File Version: 5
+Logical size: 689,415,552 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  35,203
+Unit Size:    2,448 bytes
+Total Units:  281,624
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     294,488,336 bytes
+Ratio:        42.7%
+SHA1:         2571007ed6480ac61087abbdf0d35e466a39a7d1
+Data SHA1:    a526b85be4ff3495b410ad4881ab8c7fac0bedb2
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:281622 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Video Speedway - The Ultimate Racing Experience (1993)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 675,001,728 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  34,467
+Unit Size:    2,448 bytes
+Total Units:  275,736
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     289,157,519 bytes
+Ratio:        42.8%
+SHA1:         e21f86210f18938f0c4b995d6ad68dba2429bda4
+Data SHA1:    e14034a26867765a84b53ff24448232363f19022
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:275736 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Video Speedway - The Ultimate Racing Experience (1993)(Philips)(US).chd
+File Version: 5
+Logical size: 675,373,824 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  34,486
+Unit Size:    2,448 bytes
+Total Units:  275,888
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     289,159,654 bytes
+Ratio:        42.8%
+SHA1:         91281fe15cc9b7cb129d4070f9dd699313e5e05a
+Data SHA1:    66d8ba14f289dc76c185cd4ce6fa19ee8058bcb3
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:275886 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Voetbal v1.04 (1994)(Philips)(NL)[DVC].chd
+File Version: 5
+Logical size: 797,744,448 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,735
+Unit Size:    2,448 bytes
+Total Units:  325,876
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     523,958,908 bytes
+Ratio:        65.7%
+SHA1:         b0b7d1b22c6c990573bebc36551ccdb362020330
+Data SHA1:    721d8bedb45cf053e69d5f933e6e590e54d0b7f0
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:325875 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Voyeur ...don't get caught (1993)(Philips)(EU)[!][adult, access code 3333].chd
+File Version: 5
+Logical size: 819,776,448 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,860
+Unit Size:    2,448 bytes
+Total Units:  334,876
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     423,742,011 bytes
+Ratio:        51.7%
+SHA1:         659c4da10c7b9c50aa9fdbf8800346dbb3b7f5a1
+Data SHA1:    e22fd22bd93a5361060a9eb196f45bd5a81718de
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:334875 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Voyeur ...don't get caught (1993)(Philips)(US)[adult, access code 3333][11220909 01].chd
+File Version: 5
+Logical size: 820,148,544 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,879
+Unit Size:    2,448 bytes
+Total Units:  335,028
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     423,743,844 bytes
+Ratio:        51.7%
+SHA1:         557e81e664fd11830fcfedb55f2b9326f24bba1c
+Data SHA1:    e72af7256f21d1df8266811635353e01ce6a38eb
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:335025 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Voyeur ...don't get caught (1993)(Philips)(US)[adult, access code 3333][11220928 03].chd
+File Version: 5
+Logical size: 820,510,848 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,897
+Unit Size:    2,448 bytes
+Total Units:  335,176
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     425,284,741 bytes
+Ratio:        51.8%
+SHA1:         a93dff003441435bb6062c6c38a71cb9ad0f22b1
+Data SHA1:    4b0967ff06fce4094574fd76c41b914379464d11
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:335175 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Voyeur ...lass Dich nicht erwischen! (1995)(Philips)(DE)[!][adult, access code 3333].chd
+File Version: 5
+Logical size: 819,042,048 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,822
+Unit Size:    2,448 bytes
+Total Units:  334,576
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     423,244,781 bytes
+Ratio:        51.7%
+SHA1:         dcf7830dea60bf5ba82e1372cb7fdee4d1fd9061
+Data SHA1:    c46fe6daa3330aa640357c3e78fddf36f60bcd0a
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:334575 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Voyeur ...soyez prudent (1995)(Philips)(FR)[adult, access code 3333].chd
+File Version: 5
+Logical size: 818,856,000 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,813
+Unit Size:    2,448 bytes
+Total Units:  334,500
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     423,148,878 bytes
+Ratio:        51.7%
+SHA1:         a551ef4bea7f33dee96c2c78e813be77fbdb7423
+Data SHA1:    ec5d30d652afd743e1590caf351fc922b3c10024
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:334500 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Wacky World of Minature Golf, The - With Eugene Levy (1993)(Philips)(EU).chd
+File Version: 5
+Logical size: 784,564,416 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,062
+Unit Size:    2,448 bytes
+Total Units:  320,492
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     163,683,086 bytes
+Ratio:        20.9%
+SHA1:         4facb2fdcd1864f55ffee3bb3a466e0f0d746f35
+Data SHA1:    9a87ba3668aa6d0afc6a731923ec87ca05da658e
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:320490 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Wacky World of Minature Golf, The - With Eugene Levy (1993)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 784,926,720 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  40,080
+Unit Size:    2,448 bytes
+Total Units:  320,640
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     163,680,965 bytes
+Ratio:        20.9%
+SHA1:         adc9452735a9e474c7c79635516f76a237990787
+Data SHA1:    1df5b9455a540cdeb9ba573d1838305f38360448
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:320640 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Whack a Bubble (1997)(New Frontier)(EU).chd
+File Version: 5
+Logical size: 190,405,440 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  9,723
+Unit Size:    2,448 bytes
+Total Units:  77,780
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     71,440,461 bytes
+Ratio:        37.5%
+SHA1:         da4ebf54171e7e9b1df82df58fde8cd10ed0d029
+Data SHA1:    d94b7fc41cabe05216534d0f5706e02b4b722f07
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:77777 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Who Shot Johnny Rock (1995)(Philips)(EU)[DVC].chd
+File Version: 5
+Logical size: 361,843,776 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,477
+Unit Size:    2,448 bytes
+Total Units:  147,812
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     294,740,758 bytes
+Ratio:        81.5%
+SHA1:         7c3f3543a42859c460190158f33c073215b1baed
+Data SHA1:    b871bf7869083cf88795d82df457fb0fcdf4ecf0
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:147810 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Who Shot Johnny Rock (1995)(Philips)(US)[DVC].chd
+File Version: 5
+Logical size: 362,206,080 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,495
+Unit Size:    2,448 bytes
+Total Units:  147,960
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     294,742,806 bytes
+Ratio:        81.4%
+SHA1:         feff9589de63e5be52487c11eb2a243acce6d3de
+Data SHA1:    6387f6631b187b3d13aa154697866c6be59a8731
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:147960 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Wimbledon Challenge - The official Wimbledon quiz game (1993)(Philips)(EU)(M6).chd
+File Version: 5
+Logical size: 518,858,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  26,494
+Unit Size:    2,448 bytes
+Total Units:  211,952
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     241,441,789 bytes
+Ratio:        46.5%
+SHA1:         c83581efbda6355e117275d8c22fd41f619632b1
+Data SHA1:    6032f635bda091a2a27cec692cb9dc3da90f1817
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:211950 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Wordplay (1994)(Philips)(EU).chd
+File Version: 5
+Logical size: 562,002,048 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  28,697
+Unit Size:    2,448 bytes
+Total Units:  229,576
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     393,866,523 bytes
+Ratio:        70.1%
+SHA1:         4b921aa0e61d4064bb37ba03cf92fd227625993d
+Data SHA1:    6dc569421bc69a903f836f2ab965584bb6972e91
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:229575 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\World Cup Golf (1995)(Philips)(EU)[!][DVC].chd
+File Version: 5
+Logical size: 774,615,744 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  39,554
+Unit Size:    2,448 bytes
+Total Units:  316,428
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     391,944,222 bytes
+Ratio:        50.6%
+SHA1:         a31cc013483cd2332a017974a5c3677434bf7948
+Data SHA1:    75c950dc91c96947f4a147f888b1250911170975
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:316425 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zaak van Sam, De - Interactieve Detective (1997)(NOB-Interactive)(NL)[DVC].chd
+File Version: 5
+Logical size: 720,084,096 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  36,769
+Unit Size:    2,448 bytes
+Total Units:  294,152
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     495,083,008 bytes
+Ratio:        68.8%
+SHA1:         db70d0873504bcfaa23a28e246cd12c3d4ae74ec
+Data SHA1:    d3841677ce1ed6c123460bd446cca56b2617eb21
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:294151 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zelda - De toverstaf van Gamelon (1993)(Philips)(NL).chd
+File Version: 5
+Logical size: 649,973,376 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,189
+Unit Size:    2,448 bytes
+Total Units:  265,512
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     116,170,693 bytes
+Ratio:        17.9%
+SHA1:         5d7963ef27d2f54060dd3f522453ebbefdb8b6ee
+Data SHA1:    5ae78614b3f66b2ea417f63e5632c8356da80fca
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:265510 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zelda - Der Zauberstab von Gamelon (1993)(Philips)(DE).chd
+File Version: 5
+Logical size: 649,973,376 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,189
+Unit Size:    2,448 bytes
+Total Units:  265,512
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     116,441,507 bytes
+Ratio:        17.9%
+SHA1:         d20b084411a82663637aa5af91e47adce5ce9b66
+Data SHA1:    a52576d8c80de233649455700641ead27a7519dd
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:265510 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zelda - The Wand of Gamelon (1993)(Philips)(EU)[!].chd
+File Version: 5
+Logical size: 649,973,376 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,189
+Unit Size:    2,448 bytes
+Total Units:  265,512
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     115,256,082 bytes
+Ratio:        17.7%
+SHA1:         979dd6684edc27e0b82fa5abcf39ec5a1677848a
+Data SHA1:    260c40337e447bdc90aeed0343b2a8dabe5a092d
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:265512 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zelda - The Wand of Gamelon (1993)(Philips)(FR).chd
+File Version: 5
+Logical size: 649,973,376 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,189
+Unit Size:    2,448 bytes
+Total Units:  265,512
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     116,307,215 bytes
+Ratio:        17.9%
+SHA1:         f5a48a30622f0066e3357bfa626e1adb19d06ada
+Data SHA1:    01d086ba29c9ad884ea08503540d5ed05a01439c
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:265510 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zelda - The Wand of Gamelon (1993)(Philips)(US).chd
+File Version: 5
+Logical size: 650,345,472 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  33,208
+Unit Size:    2,448 bytes
+Total Units:  265,664
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     115,258,206 bytes
+Ratio:        17.7%
+SHA1:         a79959ea788eeea3dd7aa08a36479006c2465e23
+Data SHA1:    07b34dd4b3768cdade379ad319b578b3ce0156e6
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:265662 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zelda's Adventure (1995)(Philips)(EU).chd
+File Version: 5
+Logical size: 538,315,200 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  27,488
+Unit Size:    2,448 bytes
+Total Units:  219,900
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     185,976,851 bytes
+Ratio:        34.5%
+SHA1:         deeb022d3ec6cce5f41abbc9826b9edbf8b09a81
+Data SHA1:    1bf938104bce6f96b324efb1e329b1973f7a44c2
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:219900 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zenith (1997)(Philips)(EU).chd
+File Version: 5
+Logical size: 38,560,896 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  1,969
+Unit Size:    2,448 bytes
+Total Units:  15,752
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     9,351,587 bytes
+Ratio:        24.3%
+SHA1:         af7b9dcfc7e89d442947e32b4d754f1899305316
+Data SHA1:    8533265bedae4c062e8ca0c9374dce93eb749d74
+Metadata:     Tag='CHT2'  Index=0  Length=92 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:15752 PREGAP:0 PG
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zombie Dinos de la Planete Zeltoide (1993)(Philips)(FR).chd
+File Version: 5
+Logical size: 820,354,176 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,889
+Unit Size:    2,448 bytes
+Total Units:  335,112
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     425,857,337 bytes
+Ratio:        51.9%
+SHA1:         18c31c2e97df1c99c7db985d711620cced2b0486
+Data SHA1:    ec446a741c9af762737b857d46d45f73b3a66f80
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:335110 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zombie Dinos from Planet Zeltoid (1992)(Philips)(EU).chd
+File Version: 5
+Logical size: 834,895,296 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  42,632
+Unit Size:    2,448 bytes
+Total Units:  341,052
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     424,753,780 bytes
+Ratio:        50.9%
+SHA1:         bc008fc92ade1995c22612c40f983a6e16f9ecee
+Data SHA1:    21cdf32d35afd166c3fa6f80b873cb4c6b9f9ccf
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:341050 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zombie Dinos from Planet Zeltoid (1992)(Philips)(US)[!].chd
+File Version: 5
+Logical size: 819,179,136 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,829
+Unit Size:    2,448 bytes
+Total Units:  334,632
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     423,224,111 bytes
+Ratio:        51.7%
+SHA1:         793dbadd21e2284885fe3cf9a0bef8d5da3c5a06
+Data SHA1:    d62f767b2f63133e255d5f6a2cf50031c638102e
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:334630 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zombie Dinos van de Planeet Zeltoid (1993)(Philips)(NL).chd
+File Version: 5
+Logical size: 819,962,496 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,869
+Unit Size:    2,448 bytes
+Total Units:  334,952
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     425,178,766 bytes
+Ratio:        51.9%
+SHA1:         25b33d5b2acc6e0317c9f35bffa70fa37cd573d5
+Data SHA1:    3e189b3640e20ab850b18566457e4f01f9085db8
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:334950 PREGAP:0 P
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.237 (mame0237)
+Input file:   D:\ROMs\CDi\cdi\Zombie Dinos vom Planeten Zeltoid (1994)(Philips)(DE)[!].chd
+File Version: 5
+Logical size: 819,374,976 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  41,839
+Unit Size:    2,448 bytes
+Total Units:  334,712
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     426,696,934 bytes
+Ratio:        52.1%
+SHA1:         a30a3a6b22f2b53861603c9b8cefb38cdd76f075
+Data SHA1:    d51ee4ea4b944a55192d0e23eb5b5fb4e70c4a83
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE2_RAW SUBTYPE:NONE FRAMES:334710 PREGAP:0 P
