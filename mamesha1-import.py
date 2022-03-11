@@ -12,24 +12,20 @@
 import sys
 import os
 import lxml
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as bs
 
 #chdListfilename = sys.argv[1]
 #softwarelistFileName = sys.argv[2]
 
-chdListfilename="~/SynologyDrive/mamechds.txt"
+chdListfilename="mamechds.txt"
 softwarelistFileName="cdi.xml"
 
-if len(sys.argv) < 3: 
-   print(f"USAGE: {os.path.basename(__file__)} <chdmanoutputfile.txt> <mamesoftwarelist>.xml")
-   exit(1)
+#if len(sys.argv) < 3: 
+#   print(f"USAGE: {os.path.basename(__file__)} <chdmanoutputfile.txt> <mamesoftwarelist>.xml")
+#   exit(1)
 
 #open the first file, first check it exists
 chdfile = open(chdListfilename, "r")
-def getchds():
-    #done
-    return 0
-#Intitialize new list and variables to be used for data gathering
 chdDict = {}
 filename = ""
 sha = ""
@@ -45,7 +41,6 @@ for line in chdfile.readlines():
         lastItem = len(splitPath) -1
         filename = splitPath[lastItem].rstrip().replace("[!]","")
         #print(f"{filename}")
-
     if line.startswith("SHA1:         "):
         sha = line[14:].rstrip()
     if ((len(filename) > 1) and (len(sha) == 40) ):
@@ -57,7 +52,7 @@ for line in chdfile.readlines():
 
 #print("chdDict looks like:")
 #for items in chdDict.items():
-#    print(f"{items}")
+    print(f"{items}")
 
 
 #Close hooks
@@ -66,10 +61,10 @@ chdfile.close()
 xmlContent= []
 
  # Read the XML file
-with open(sys.argv[2], "r") as file:
+with open(softwarelistFileName, "r") as file:
     # Read each line in the file, readlines() returns a list of lines
     content = file.readlines()
     # Combine the lines in the list into a string
-    content = "".join(content)
-    bs_content = bs(content, "lxml")
+    xmlContent = "".join(content)
+    bs_content = bs(xmlContent, "lxml")
 
