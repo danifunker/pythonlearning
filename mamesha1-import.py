@@ -9,10 +9,10 @@
 # put into a dict
 # update XML
 #
+from bs4 import BeautifulSoup as bs
 import sys
 import os
 import lxml
-from bs4 import BeautifulSoup as bs
 
 #chdListfilename = sys.argv[1]
 #softwarelistFileName = sys.argv[2]
@@ -39,7 +39,7 @@ for line in chdfile.readlines():
         if fullpath != None and "/" in fullpath:
             splitPath=fullpath.split('/')
         lastItem = len(splitPath) -1
-        filename = splitPath[lastItem].rstrip().replace("[!]","")
+        filename = splitPath[lastItem].rstrip().replace("[!]","").replace(".chd","")
         #print(f"{filename}")
     if line.startswith("SHA1:         "):
         sha = line[14:].rstrip()
@@ -49,14 +49,11 @@ for line in chdfile.readlines():
         #Now there is a match, unset the variables so that we ensure it goes in order
         filename = ""
         sha = ""
-
-#print("chdDict looks like:")
-#for items in chdDict.items():
-    print(f"{items}")
-
-
 #Close hooks
 chdfile.close()
+#print("chdDict looks like:")
+#for items in chdDict.items():
+#    print(f"{items}")
 
 xmlContent= []
 
@@ -68,3 +65,29 @@ with open(softwarelistFileName, "r") as file:
     xmlContent = "".join(content)
     bs_content = bs(xmlContent, "lxml")
 
+disks = bs_content.find_all('disk')
+mamedisks = {}
+for disk in disks:
+    mamedisks.update({disk.get('name'):disk.get('sha1')})
+
+
+matches = []
+nonmatches = []
+for chds in chdDict.keys():
+    try: 
+        #print(f"Trying {chds}")
+        matches.append(list(mamedisks.keys()).index(chds))
+    except ValueError:
+        nonmatches.append({chds})
+    else: 
+        #print(f"Couldn't match {chds}")
+        pass
+
+for chds in chdDict.keys(): 
+    print(f"Trying {chds}")
+    if mamedisks.get({chds}): 
+        print(f"found it")
+        matches.append({chds})
+    else: 
+        nonmatches.append({chds})
+        pass
