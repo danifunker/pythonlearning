@@ -10,15 +10,44 @@
 # update XML
 #
 from bs4 import BeautifulSoup as bs
+import xml.etree.ElementTree
 import sys
 import os
 import lxml
 
-#chdListfilename = sys.argv[1]
-#softwarelistFileName = sys.argv[2]
+if os.uname().sysname == "Darwin":
+    osSwitch = "-i ''"
+else:
+    osSwitch = "-i"
 
-chdListfilename="mamechds.txt"
-softwarelistFileName="cdi.xml"
+#Class block for keeping track of data
+class updateInfo:
+    def __init__(self, refFilename, refSHA):
+        self.refFilename = refFilename
+        self.refSHA = refSHA
+        self.newSHA = ""
+    def updateSHA(self, newSHA):
+        self.newSHA = newSHA
+    def needsUpdate(self):
+        if self.newSHA != "":
+            if self.newSHA != self.refSHA:
+                return "true"
+            else:
+                return "false"
+    def getFilename(self):
+        return self.refFilename
+    def returnOldSHA(self):
+        return self.refSHA
+    def returnNewSHA(self):
+        return self.newSHA
+    def returnInfo(self):
+        return("CHDName: " + self.refFilename + "    OriginalSHA: " + self.refSHA + "    newSHA: " + self.newSHA)
+
+chdListfilename = sys.argv[1]
+softwarelistFileName = sys.argv[2]
+
+#chdListfilename="mamechds.txt"
+#softwarelistFileName="cdi.xml"
 
 #if len(sys.argv) < 3: 
 #   print(f"USAGE: {os.path.basename(__file__)} <chdmanoutputfile.txt> <mamesoftwarelist>.xml")
@@ -71,23 +100,28 @@ for disk in disks:
     mamedisks.update({disk.get('name'):disk.get('sha1')})
 
 
-matches = []
-nonmatches = []
-for chds in chdDict.keys():
-    try: 
-        #print(f"Trying {chds}")
-        matches.append(list(mamedisks.keys()).index(chds))
-    except ValueError:
-        nonmatches.append({chds})
-    else: 
-        #print(f"Couldn't match {chds}")
-        pass
+infosArr= []
+for chd in chdDict.keys():
+    infosArr.append(updateInfo (chd,chdDict[chd]))
 
-for chds in chdDict.keys(): 
-    print(f"Trying {chds}")
-    if mamedisks.get({chds}): 
-        print(f"found it")
-        matches.append({chds})
+#infosArr[0].returnInfo()
+
+nonmatches = []
+for item in infosArr: 
+    if mamedisks.get(item.getFilename()): 
+        filename=item.getFilename()
+        #print (f"Trying to update now... {filename} with {mamedisks.get(filename)}")
+        item.updateSHA(mamedisks.get(filename))
+        #item.returnInfo()
     else: 
-        nonmatches.append({chds})
-        pass
+        nonmatches.append(item.returnInfo())
+
+needsUpdates=[]
+noUpdates=[]
+for item in infosArr:
+    if item.needsUpdate() == "true":
+        needsUpdates.append(item.returnInfo())
+        print(f"sed {osSwitch} 's/{item.returnNewSHA()}/{item.returnOldSHA()}/' {softwarelistFileName}")
+    else:
+        noUpdates.append(item.returnInfo())
+
